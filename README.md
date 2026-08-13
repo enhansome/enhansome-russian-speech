@@ -81,7 +81,7 @@
 * <https://github.com/NickZaitsev/ru-normalizr> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-08-07 - преобразователь на регулярных выражениях
 * <https://github.com/just-ai/multilingual-text-parser> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-05-30
 * <https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language> ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-11-24 - один из победителей
-* <https://github.com/Balamoote/tts-scripts> ⭐ 3 | 🐛 0 | 🌐 Awk | 📅 2026-08-12 - куча скриптов awk и данных для озвучки книг
+* <https://github.com/Balamoote/tts-scripts> ⭐ 3 | 🐛 0 | 🌐 Awk | 📅 2026-08-13 - куча скриптов awk и данных для озвучки книг
 * <https://www.kaggle.com/competitions/text-normalization-challenge-russian-language/overview> - старое соревнование на Kaggle
 
 # Мультимодальные LLM
@@ -94,13 +94,13 @@
 * <https://github.com/nsu-ai/russian_g2p> ⭐ 140 | 🐛 11 | 🌐 Python | 📅 2022-06-19
 * <https://github.com/MashaPo/russtress> ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2020-05-13
 * <https://github.com/Desklop/StressRNN> ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2024-08-07
-* <https://github.com/wilpert/RusPhonetizer> ⚠️ Archived
 * <https://github.com/reynoldsnlp/udar> ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-07-25
 * <https://github.com/einhornus/russian_accentuation> ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-08-25
 * <https://github.com/nsu-ai-team/russian_g2p_neuro> ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2021-04-01
 * <https://github.com/omogr/omogre> ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-01
 * <https://github.com/Koziev/StressModel> ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-06-22
 * <https://github.com/suralmasha/RuTranscript> ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2026-05-20
+* <https://github.com/wilpert/RusPhonetizer>
 * <https://huggingface.co/bene-ges/ru_g2p_ipa_bert_large>
 * <https://huggingface.co/IlyaGusev/ru-word-stress-transformer>
 * <https://github.com/aishutin/rustress>
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 107,184 | 🐛 135 | 🌐 Python | 📅 2026-07-28
+* Whisper medium <https://github.com/openai/whisper> ⭐ 107,215 | 🐛 135 | 🌐 Python | 📅 2026-07-28
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
