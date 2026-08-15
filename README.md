@@ -14,7 +14,7 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 759 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-12-15
+* <https://github.com/markovka17/dla> ⭐ 760 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-12-15
 * <https://github.com/yandexdataschool/speech_course> ⭐ 345 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 93 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
@@ -48,7 +48,7 @@
 
 * <https://github.com/alphacep/vosk-tts> ⭐ 271 | 🐛 34 | 🌐 Python | 📅 2026-06-06
 * <https://github.com/sovaai/sova-tts> ⭐ 163 | 🐛 10 | 🌐 Python | 📅 2023-04-27
-* <https://github.com/Tera2Space/TeraTTS> ⭐ 86 | 🐛 8 | 🌐 Python | 📅 2025-02-11
+* <https://github.com/Tera2Space/TeraTTS> ⭐ 87 | 🐛 8 | 🌐 Python | 📅 2025-02-11
 * <https://huggingface.co/datasets/ESpeech/ESpeech-podcasts/> - Espeech podcasts - 3200 hours
 * <https://huggingface.co/datasets/ESpeech/ESpeech-webinars2/> - Espeech webinars - 800 hours
 * <https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/> - M-AILabs dataset (from Librivox)
@@ -90,7 +90,7 @@
 
 # Расстановка ударений, фонетические словари и g2p
 
-* <https://github.com/Den4ikAI/ruaccent> ⭐ 198 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
+* <https://github.com/Den4ikAI/ruaccent> ⭐ 200 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
 * <https://github.com/nsu-ai/russian_g2p> ⭐ 140 | 🐛 11 | 🌐 Python | 📅 2022-06-19
 * <https://github.com/MashaPo/russtress> ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2020-05-13
 * <https://github.com/Desklop/StressRNN> ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2024-08-07
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 107,263 | 🐛 135 | 🌐 Python | 📅 2026-07-28
+* Whisper medium <https://github.com/openai/whisper> ⭐ 107,303 | 🐛 135 | 🌐 Python | 📅 2026-07-28
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
