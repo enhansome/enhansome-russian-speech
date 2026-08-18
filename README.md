@@ -90,7 +90,7 @@
 
 # Расстановка ударений, фонетические словари и g2p
 
-* <https://github.com/Den4ikAI/ruaccent> ⭐ 200 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
+* <https://github.com/Den4ikAI/ruaccent> ⭐ 201 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
 * <https://github.com/nsu-ai/russian_g2p> ⭐ 140 | 🐛 11 | 🌐 Python | 📅 2022-06-19
 * <https://github.com/MashaPo/russtress> ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2020-05-13
 * <https://github.com/Desklop/StressRNN> ⭐ 46 | 🐛 6 | 🌐 Python | 📅 2024-08-07
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 107,436 | 🐛 135 | 🌐 Python | 📅 2026-07-28
+* Whisper medium <https://github.com/openai/whisper> ⭐ 107,521 | 🐛 135 | 🌐 Python | 📅 2026-07-28
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
