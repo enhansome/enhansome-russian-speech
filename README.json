@@ -1,8 +1,820 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/markovka17/dla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289688054,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-15T19:44:17Z",
+            "owner": "markovka17",
+            "repo": "dla",
+            "stars": 761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/yandexdataschool/speech_course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 339100588,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-18T13:35:01Z",
+            "owner": "yandexdataschool",
+            "repo": "speech_course",
+            "stars": 345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/severilov/DL-Audio-Course",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 533872970,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-10-07T08:09:25Z",
+            "owner": "severilov",
+            "repo": "DL-Audio-Course",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Курсы"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/snakers4/open_stt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 180748068,
+            "language": "Python",
+            "last_commit": "2022-03-11T04:25:54Z",
+            "owner": "snakers4",
+            "repo": "open_stt",
+            "stars": 825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/salute-developers/golos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494449139,
+            "language": "Python",
+            "last_commit": "2025-05-21T11:14:26Z",
+            "owner": "salute-developers",
+            "repo": "golos",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/sovaai/sova-dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229967273,
+            "language": null,
+            "last_commit": "2022-11-08T14:55:56Z",
+            "owner": "sovaai",
+            "repo": "sova-dataset",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/GeorgeFedoseev/DeepSpeech",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124229500,
+            "language": "C++",
+            "last_commit": "2019-01-13T10:56:18Z",
+            "owner": "GeorgeFedoseev",
+            "repo": "DeepSpeech",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Данные для обучения"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/alphacep/vosk-tts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 624653589,
+            "language": "Python",
+            "last_commit": "2026-06-06T14:51:50Z",
+            "owner": "alphacep",
+            "repo": "vosk-tts",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/sovaai/sova-tts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 288532321,
+            "language": "Python",
+            "last_commit": "2023-04-27T20:49:09Z",
+            "owner": "sovaai",
+            "repo": "sova-tts",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Tera2Space/TeraTTS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671685529,
+            "language": "Python",
+            "last_commit": "2025-02-11T00:49:04Z",
+            "owner": "Tera2Space",
+            "repo": "TeraTTS",
+            "stars": 87
+          }
+        }
+      ],
+      "title": "Синтез речи"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/snakers4/russian_stt_text_normalization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 243225588,
+            "language": "Python",
+            "last_commit": "2021-03-15T06:25:03Z",
+            "owner": "snakers4",
+            "repo": "russian_stt_text_normalization",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/sovaai/sova-tts-tps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290288579,
+            "language": "Python",
+            "last_commit": "2021-04-09T18:39:01Z",
+            "owner": "sovaai",
+            "repo": "sova-tts-tps",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Den4ikAI/runorm",
+          "description": "числа в текст, обработка английских слов, раскрытие сокращений",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 796229794,
+            "language": "Python",
+            "last_commit": "2024-05-13T14:53:56Z",
+            "owner": "Den4ikAI",
+            "repo": "runorm",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/shigabeev/russian_tts_normalization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 715689809,
+            "language": "Python",
+            "last_commit": "2026-06-27T16:02:51Z",
+            "owner": "shigabeev",
+            "repo": "russian_tts_normalization",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/saarus72/text_normalization/tree/dev",
+          "description": "на основе Fred-T5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 738524409,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-01-25T06:30:26Z",
+            "owner": "saarus72",
+            "repo": "text_normalization",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/NickZaitsev/ru-normalizr",
+          "description": "преобразователь на регулярных выражениях",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1180091626,
+            "language": "Python",
+            "last_commit": "2026-08-07T11:12:26Z",
+            "owner": "NickZaitsev",
+            "repo": "ru-normalizr",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/just-ai/multilingual-text-parser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 800511405,
+            "language": "Python",
+            "last_commit": "2025-05-30T13:12:40Z",
+            "owner": "just-ai",
+            "repo": "multilingual-text-parser",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language",
+          "description": "один из победителей",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111701085,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-11-24T18:28:31Z",
+            "owner": "ppleskov",
+            "repo": "Text-Normalization-Challenge-Russian-Language",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Balamoote/tts-scripts",
+          "description": "куча скриптов awk и данных для озвучки книг",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 431711270,
+            "language": "Awk",
+            "last_commit": "2026-08-15T21:20:22Z",
+            "owner": "Balamoote",
+            "repo": "tts-scripts",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Общая предобработка для синтеза"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Den4ikAI/ruaccent",
+          "description": "ёфикатор, ударение и разрешение омографов",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 682409859,
+            "language": "Python",
+            "last_commit": "2026-07-17T18:53:48Z",
+            "owner": "Den4ikAI",
+            "repo": "ruaccent",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/nsu-ai/russian_g2p",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120856505,
+            "language": "Python",
+            "last_commit": "2022-06-19T04:17:13Z",
+            "owner": "nsu-ai",
+            "repo": "russian_g2p",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MashaPo/russtress",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118105806,
+            "language": "Python",
+            "last_commit": "2020-05-13T19:28:05Z",
+            "owner": "MashaPo",
+            "repo": "russtress",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Desklop/StressRNN",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306460871,
+            "language": "Python",
+            "last_commit": "2024-08-07T22:20:48Z",
+            "owner": "dbklim",
+            "repo": "StressRNN",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/reynoldsnlp/udar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168636327,
+            "language": "Python",
+            "last_commit": "2026-07-25T03:12:15Z",
+            "owner": "reynoldsnlp",
+            "repo": "udar",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/einhornus/russian_accentuation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 399434076,
+            "language": "Python",
+            "last_commit": "2021-08-25T03:19:46Z",
+            "owner": "einhornus",
+            "repo": "russian_accentuation",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/nsu-ai-team/russian_g2p_neuro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136432922,
+            "language": "Python",
+            "last_commit": "2021-04-01T08:20:14Z",
+            "owner": "nsu-ai-team",
+            "repo": "russian_g2p_neuro",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/omogr/omogre",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 848971102,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-01T21:01:33Z",
+            "owner": "omogr",
+            "repo": "omogre",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Koziev/StressModel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 387670920,
+            "language": "Python",
+            "last_commit": "2025-06-22T12:25:58Z",
+            "owner": "Koziev",
+            "repo": "StressModel",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/suralmasha/RuTranscript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 481151470,
+            "language": "Python",
+            "last_commit": "2026-05-20T11:56:44Z",
+            "owner": "suralmasha",
+            "repo": "RuTranscript",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Расстановка ударений, фонетические словари и g2p"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/reynoldsnlp/udar/blob/main/src/udar/resources/src/Tixonov.txt",
+          "description": "Морфемно-орфографический словарь Тихонова",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168636327,
+            "language": "Python",
+            "last_commit": "2026-07-25T03:12:15Z",
+            "owner": "reynoldsnlp",
+            "repo": "udar",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/gramdict/gramdict",
+          "description": "современная версия словаря Зализняка",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166053132,
+            "language": "HTML",
+            "last_commit": "2026-07-26T19:22:08Z",
+            "owner": "gramdict",
+            "repo": "gramdict",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Словари"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/sovaai/sova-tts-tps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290288579,
+            "language": "Python",
+            "last_commit": "2021-04-09T18:39:01Z",
+            "owner": "sovaai",
+            "repo": "sova-tts-tps",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/e2yo/eyo-kernel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38011960,
+            "language": "TypeScript",
+            "last_commit": "2026-06-26T17:01:17Z",
+            "owner": "e2yo",
+            "repo": "eyo-kernel",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Text-extend-tools/python-yoficator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139611929,
+            "language": "Python",
+            "last_commit": "2018-07-08T14:12:18Z",
+            "owner": "Text-extend-tools",
+            "repo": "python-yoficator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kalashnikovisme/karamzin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27245562,
+            "language": "Ruby",
+            "last_commit": "2016-10-27T00:27:17Z",
+            "owner": "kalashnikovisme",
+            "repo": "karamzin",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/unabashed/yoficator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46310966,
+            "language": "Python",
+            "last_commit": "2018-06-30T16:45:04Z",
+            "owner": "unabashed",
+            "repo": "yoficator",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/emacsmirror/yoficator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279876396,
+            "language": "Emacs Lisp",
+            "last_commit": "2020-07-15T13:30:49Z",
+            "owner": "emacsmirror",
+            "repo": "yoficator",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Ёфикаторы"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/salute-developers/golos/tree/master/dusha",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494449139,
+            "language": "Python",
+            "last_commit": "2025-05-21T11:14:26Z",
+            "owner": "salute-developers",
+            "repo": "golos",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/aniemore/Aniemore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 489349966,
+            "language": "Python",
+            "last_commit": "2025-06-23T12:13:35Z",
+            "owner": "aniemore",
+            "repo": "Aniemore",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "Распознавание эмоций"
+    },
+    {
+      "description": "Сравнение моделей тут.\nНе тестировались (похуже качеством)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Whisper medium https://github.com/openai/whisper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 537603333,
+            "language": "Python",
+            "last_commit": "2026-07-28T20:18:29Z",
+            "owner": "openai",
+            "repo": "whisper",
+            "stars": 107603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salute Citrinet https://github.com/salute-developers/golos",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494449139,
+            "language": "Python",
+            "last_commit": "2025-05-21T11:14:26Z",
+            "owner": "salute-developers",
+            "repo": "golos",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Модели для распознавания речи"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/sviperm/neuro-comma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374603439,
+            "language": "Python",
+            "last_commit": "2021-07-09T07:59:17Z",
+            "owner": "sviperm",
+            "repo": "neuro-comma",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/sviperm/neuro-comma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374603439,
+            "language": "Python",
+            "last_commit": "2021-07-09T07:59:17Z",
+            "owner": "sviperm",
+            "repo": "neuro-comma",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/vlomme/Bert-Russian-punctuation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267046409,
+            "language": "Python",
+            "last_commit": "2020-05-27T05:58:22Z",
+            "owner": "vlomme",
+            "repo": "Bert-Russian-punctuation",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/averkij/multipunct",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459554107,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-02T11:35:49Z",
+            "owner": "averkij",
+            "repo": "multipunct",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kotikkonstantin/ru-autopunctuation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 382814500,
+            "language": "Python",
+            "last_commit": "2022-01-07T11:19:20Z",
+            "owner": "kotikkonstantin",
+            "repo": "ru-autopunctuation",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/gleb-skobinsky/ru_punct",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 448432003,
+            "language": "Python",
+            "last_commit": "2022-02-28T01:09:39Z",
+            "owner": "gleb-skobinsky",
+            "repo": "ru_punct",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/marlon-br/neuro-comma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390974300,
+            "language": "Python",
+            "last_commit": "2021-11-25T18:12:11Z",
+            "owner": "marlon-br",
+            "repo": "neuro-comma",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Lesha17/Punctuation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 280517374,
+            "language": "Python",
+            "last_commit": "2020-07-30T13:19:06Z",
+            "owner": "Lesha17",
+            "repo": "Punctuation",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/denis-berezutskiy-lad/transcription-bert-ru-punctuator-scripts",
+          "description": "HuggingFace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 717684398,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-11-12T17:09:12Z",
+            "owner": "denis-berezutskiy-lad",
+            "repo": "transcription-bert-ru-punctuator-scripts",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Пунктуация и заглавные буквы"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T14:17:59.036Z",
+    "last_updated": "2026-08-19T12:55:04.798Z",
     "original_repository": "alphacep/awesome-russian-speech",
+    "original_repository_id": 634319313,
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
     "enhanced_repository": "enhansome/enhansome-russian-speech",
     "enhanced_repository_description": null,
