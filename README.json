@@ -648,7 +648,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107603
+            "stars": 107610
           }
         },
         {
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:55:04.798Z",
+    "last_updated": "2026-08-19T14:19:01.679Z",
     "original_repository": "alphacep/awesome-russian-speech",
     "original_repository_id": 634319313,
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
