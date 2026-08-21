@@ -15,7 +15,7 @@
             "last_commit": "2025-12-15T19:44:17Z",
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2025-05-21T11:14:26Z",
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 147
+            "stars": 146
           }
         },
         {
@@ -528,7 +528,7 @@
             "archived": false,
             "id": 38011960,
             "language": "TypeScript",
-            "last_commit": "2026-06-26T17:01:17Z",
+            "last_commit": "2026-08-20T22:12:34Z",
             "owner": "e2yo",
             "repo": "eyo-kernel",
             "stars": 47
@@ -612,7 +612,7 @@
             "last_commit": "2025-05-21T11:14:26Z",
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 147
+            "stars": 146
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107667
+            "stars": 107724
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2025-05-21T11:14:26Z",
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 147
+            "stars": 146
           }
         }
       ],
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:22:21.904Z",
+    "last_updated": "2026-08-21T14:20:36.697Z",
     "original_repository": "alphacep/awesome-russian-speech",
     "original_repository_id": 634319313,
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
