@@ -132,7 +132,7 @@
             "last_commit": "2026-06-06T14:51:50Z",
             "owner": "alphacep",
             "repo": "vosk-tts",
-            "stars": 271
+            "stars": 272
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107724
+            "stars": 107776
           }
         },
         {
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:20:36.697Z",
+    "last_updated": "2026-08-22T14:02:10.753Z",
     "original_repository": "alphacep/awesome-russian-speech",
     "original_repository_id": 634319313,
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",

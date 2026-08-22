@@ -46,7 +46,7 @@
 
 # Синтез речи
 
-* <https://github.com/alphacep/vosk-tts> ⭐ 271 | 🐛 34 | 🌐 Python | 📅 2026-06-06
+* <https://github.com/alphacep/vosk-tts> ⭐ 272 | 🐛 34 | 🌐 Python | 📅 2026-06-06
 * <https://github.com/sovaai/sova-tts> ⭐ 163 | 🐛 10 | 🌐 Python | 📅 2023-04-27
 * <https://github.com/Tera2Space/TeraTTS> ⭐ 87 | 🐛 8 | 🌐 Python | 📅 2025-02-11
 * <https://huggingface.co/datasets/ESpeech/ESpeech-podcasts/> - Espeech podcasts - 3200 hours
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 107,724 | 🐛 135 | 🌐 Python | 📅 2026-07-28
+* Whisper medium <https://github.com/openai/whisper> ⭐ 107,776 | 🐛 135 | 🌐 Python | 📅 2026-07-28
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
