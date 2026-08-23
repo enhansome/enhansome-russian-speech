@@ -258,7 +258,7 @@
             "last_commit": "2026-08-07T11:12:26Z",
             "owner": "NickZaitsev",
             "repo": "ru-normalizr",
-            "stars": 21
+            "stars": 22
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107776
+            "stars": 107811
           }
         },
         {
@@ -812,7 +812,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:02:10.753Z",
+    "last_updated": "2026-08-23T14:09:24.404Z",
     "original_repository": "alphacep/awesome-russian-speech",
     "original_repository_id": 634319313,
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
