@@ -127,7 +127,7 @@
 # Распознавание эмоций
 
 * <https://github.com/salute-developers/golos/tree/master/dusha> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
-* <https://github.com/aniemore/Aniemore> ⭐ 83 | 🐛 4 | 🌐 Python | 📅 2025-06-23
+* <https://github.com/aniemore/Aniemore> ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2025-06-23
 * <https://huggingface.co/xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned>
 * <https://huggingface.co/datasets/Aniemore/resd_annotated>
 
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 107,811 | 🐛 136 | 🌐 Python | 📅 2026-07-28
+* Whisper medium <https://github.com/openai/whisper> ⭐ 107,864 | 🐛 137 | 🌐 Python | 📅 2026-07-28
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
