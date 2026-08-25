@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/markovka17/dla",
+          "title": "markovka17/dla",
           "description": null,
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/yandexdataschool/speech_course",
+          "title": "yandexdataschool/speech_course",
           "description": null,
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/severilov/DL-Audio-Course",
+          "title": "severilov/DL-Audio-Course",
           "description": null,
           "children": [],
           "repo_info": {
@@ -56,7 +56,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/snakers4/open_stt",
+          "title": "snakers4/open_stt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -71,7 +71,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/salute-developers/golos",
+          "title": "salute-developers/golos",
           "description": null,
           "children": [],
           "repo_info": {
@@ -86,7 +86,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sovaai/sova-dataset",
+          "title": "sovaai/sova-dataset",
           "description": null,
           "children": [],
           "repo_info": {
@@ -101,7 +101,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/GeorgeFedoseev/DeepSpeech",
+          "title": "GeorgeFedoseev/DeepSpeech",
           "description": null,
           "children": [],
           "repo_info": {
@@ -122,7 +122,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/alphacep/vosk-tts",
+          "title": "alphacep/vosk-tts",
           "description": null,
           "children": [],
           "repo_info": {
@@ -137,7 +137,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sovaai/sova-tts",
+          "title": "sovaai/sova-tts",
           "description": null,
           "children": [],
           "repo_info": {
@@ -152,7 +152,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Tera2Space/TeraTTS",
+          "title": "Tera2Space/TeraTTS",
           "description": null,
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/snakers4/russian_stt_text_normalization",
+          "title": "snakers4/russian_stt_text_normalization",
           "description": null,
           "children": [],
           "repo_info": {
@@ -188,7 +188,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sovaai/sova-tts-tps",
+          "title": "sovaai/sova-tts-tps",
           "description": null,
           "children": [],
           "repo_info": {
@@ -203,7 +203,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Den4ikAI/runorm",
+          "title": "Den4ikAI/runorm",
           "description": "числа в текст, обработка английских слов, раскрытие сокращений",
           "children": [],
           "repo_info": {
@@ -218,7 +218,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/shigabeev/russian_tts_normalization",
+          "title": "shigabeev/russian_tts_normalization",
           "description": null,
           "children": [],
           "repo_info": {
@@ -233,7 +233,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/saarus72/text_normalization/tree/dev",
+          "title": "saarus72/text_normalization",
           "description": "на основе Fred-T5",
           "children": [],
           "repo_info": {
@@ -248,7 +248,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/NickZaitsev/ru-normalizr",
+          "title": "NickZaitsev/ru-normalizr",
           "description": "преобразователь на регулярных выражениях",
           "children": [],
           "repo_info": {
@@ -263,7 +263,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/just-ai/multilingual-text-parser",
+          "title": "just-ai/multilingual-text-parser",
           "description": null,
           "children": [],
           "repo_info": {
@@ -278,7 +278,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language",
+          "title": "ppleskov/Text-Normalization-Challenge-Russian-Language",
           "description": "один из победителей",
           "children": [],
           "repo_info": {
@@ -293,14 +293,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Balamoote/tts-scripts",
+          "title": "Balamoote/tts-scripts",
           "description": "куча скриптов awk и данных для озвучки книг",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 431711270,
             "language": "Awk",
-            "last_commit": "2026-08-15T21:20:22Z",
+            "last_commit": "2026-08-24T20:03:11Z",
             "owner": "Balamoote",
             "repo": "tts-scripts",
             "stars": 3
@@ -314,7 +314,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Den4ikAI/ruaccent",
+          "title": "Den4ikAI/ruaccent",
           "description": "ёфикатор, ударение и разрешение омографов",
           "children": [],
           "repo_info": {
@@ -329,7 +329,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nsu-ai/russian_g2p",
+          "title": "nsu-ai/russian_g2p",
           "description": null,
           "children": [],
           "repo_info": {
@@ -344,7 +344,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MashaPo/russtress",
+          "title": "MashaPo/russtress",
           "description": null,
           "children": [],
           "repo_info": {
@@ -359,7 +359,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Desklop/StressRNN",
+          "title": "dbklim/StressRNN",
           "description": null,
           "children": [],
           "repo_info": {
@@ -374,7 +374,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/reynoldsnlp/udar",
+          "title": "reynoldsnlp/udar",
           "description": null,
           "children": [],
           "repo_info": {
@@ -389,7 +389,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/einhornus/russian_accentuation",
+          "title": "einhornus/russian_accentuation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -404,7 +404,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/nsu-ai-team/russian_g2p_neuro",
+          "title": "nsu-ai-team/russian_g2p_neuro",
           "description": null,
           "children": [],
           "repo_info": {
@@ -419,7 +419,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/omogr/omogre",
+          "title": "omogr/omogre",
           "description": null,
           "children": [],
           "repo_info": {
@@ -434,7 +434,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Koziev/StressModel",
+          "title": "Koziev/StressModel",
           "description": null,
           "children": [],
           "repo_info": {
@@ -449,7 +449,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/suralmasha/RuTranscript",
+          "title": "suralmasha/RuTranscript",
           "description": null,
           "children": [],
           "repo_info": {
@@ -470,7 +470,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/reynoldsnlp/udar/blob/main/src/udar/resources/src/Tixonov.txt",
+          "title": "reynoldsnlp/udar",
           "description": "Морфемно-орфографический словарь Тихонова",
           "children": [],
           "repo_info": {
@@ -485,7 +485,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/gramdict/gramdict",
+          "title": "gramdict/gramdict",
           "description": "современная версия словаря Зализняка",
           "children": [],
           "repo_info": {
@@ -506,7 +506,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/sovaai/sova-tts-tps",
+          "title": "sovaai/sova-tts-tps",
           "description": null,
           "children": [],
           "repo_info": {
@@ -521,7 +521,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/e2yo/eyo-kernel",
+          "title": "e2yo/eyo-kernel",
           "description": null,
           "children": [],
           "repo_info": {
@@ -536,7 +536,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Text-extend-tools/python-yoficator",
+          "title": "Text-extend-tools/python-yoficator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -551,7 +551,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kalashnikovisme/karamzin",
+          "title": "kalashnikovisme/karamzin",
           "description": null,
           "children": [],
           "repo_info": {
@@ -566,7 +566,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/unabashed/yoficator",
+          "title": "unabashed/yoficator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -581,7 +581,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/emacsmirror/yoficator",
+          "title": "emacsmirror/yoficator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -602,7 +602,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/salute-developers/golos/tree/master/dusha",
+          "title": "salute-developers/golos",
           "description": null,
           "children": [],
           "repo_info": {
@@ -617,7 +617,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aniemore/Aniemore",
+          "title": "aniemore/Aniemore",
           "description": null,
           "children": [],
           "repo_info": {
@@ -648,7 +648,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107867
+            "stars": 107898
           }
         },
         {
@@ -668,7 +668,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sovse/base_rus_whisper_stt",
+          "title": "sovse/base_rus_whisper_stt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -689,7 +689,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/sviperm/neuro-comma",
+          "title": "sviperm/neuro-comma",
           "description": null,
           "children": [],
           "repo_info": {
@@ -704,7 +704,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sviperm/neuro-comma",
+          "title": "sviperm/neuro-comma",
           "description": null,
           "children": [],
           "repo_info": {
@@ -719,7 +719,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vlomme/Bert-Russian-punctuation",
+          "title": "vlomme/Bert-Russian-punctuation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -734,7 +734,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/averkij/multipunct",
+          "title": "averkij/multipunct",
           "description": null,
           "children": [],
           "repo_info": {
@@ -749,7 +749,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kotikkonstantin/ru-autopunctuation",
+          "title": "kotikkonstantin/ru-autopunctuation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -764,7 +764,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/gleb-skobinsky/ru_punct",
+          "title": "gleb-skobinsky/ru_punct",
           "description": null,
           "children": [],
           "repo_info": {
@@ -779,7 +779,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/marlon-br/neuro-comma",
+          "title": "marlon-br/neuro-comma",
           "description": null,
           "children": [],
           "repo_info": {
@@ -794,7 +794,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Lesha17/Punctuation",
+          "title": "Lesha17/Punctuation",
           "description": null,
           "children": [],
           "repo_info": {
@@ -809,7 +809,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/denis-berezutskiy-lad/transcription-bert-ru-punctuator-scripts",
+          "title": "denis-berezutskiy-lad/transcription-bert-ru-punctuator-scripts",
           "description": "HuggingFace",
           "children": [],
           "repo_info": {
@@ -827,7 +827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:00.696Z",
+    "last_updated": "2026-08-25T06:16:48.455Z",
     "original_repository": "alphacep/awesome-russian-speech",
     "original_repository_id": 634319313,
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
