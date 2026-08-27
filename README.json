@@ -300,7 +300,7 @@
             "archived": false,
             "id": 431711270,
             "language": "Awk",
-            "last_commit": "2026-08-24T20:03:11Z",
+            "last_commit": "2026-08-27T10:57:53Z",
             "owner": "Balamoote",
             "repo": "tts-scripts",
             "stars": 3
@@ -648,7 +648,7 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 107964
+            "stars": 108003
           }
         },
         {
@@ -827,9 +827,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:30:10.086Z",
-    "original_repository": "alphacep/awesome-russian-speech",
-    "original_repository_id": 634319313,
+    "last_updated": "2026-08-27T12:01:52.141Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 634319313,
+      "language": null,
+      "last_commit": "2026-03-17T02:34:14Z",
+      "owner": "alphacep",
+      "repo": "awesome-russian-speech",
+      "stars": 406
+    },
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
     "enhanced_repository": "enhansome/enhansome-russian-speech",
     "enhanced_repository_description": null,
