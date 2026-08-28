@@ -16,7 +16,8 @@
             "owner": "markovka17",
             "repo": "dla",
             "stars": 762
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-05-18T13:35:01Z",
             "owner": "yandexdataschool",
             "repo": "speech_course",
-            "stars": 345
-          }
+            "stars": 346
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "severilov",
             "repo": "DL-Audio-Course",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Курсы"
@@ -67,7 +70,8 @@
             "owner": "snakers4",
             "repo": "open_stt",
             "stars": 825
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "salute-developers",
             "repo": "golos",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "sovaai",
             "repo": "sova-dataset",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "GeorgeFedoseev",
             "repo": "DeepSpeech",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Данные для обучения"
@@ -133,7 +140,8 @@
             "owner": "alphacep",
             "repo": "vosk-tts",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "sovaai",
             "repo": "sova-tts",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "Tera2Space",
             "repo": "TeraTTS",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Синтез речи"
@@ -184,7 +194,8 @@
             "owner": "snakers4",
             "repo": "russian_stt_text_normalization",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "sovaai",
             "repo": "sova-tts-tps",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "Den4ikAI",
             "repo": "runorm",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "shigabeev",
             "repo": "russian_tts_normalization",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "saarus72",
             "repo": "text_normalization",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "NickZaitsev",
             "repo": "ru-normalizr",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "just-ai",
             "repo": "multilingual-text-parser",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "ppleskov",
             "repo": "Text-Normalization-Challenge-Russian-Language",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "Balamoote",
             "repo": "tts-scripts",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Общая предобработка для синтеза"
@@ -324,8 +343,9 @@
             "last_commit": "2026-07-17T18:53:48Z",
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 201
-          }
+            "stars": 202
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "nsu-ai",
             "repo": "russian_g2p",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "MashaPo",
             "repo": "russtress",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "dbklim",
             "repo": "StressRNN",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -400,7 +424,8 @@
             "owner": "einhornus",
             "repo": "russian_accentuation",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "nsu-ai-team",
             "repo": "russian_g2p_neuro",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "omogr",
             "repo": "omogre",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "Koziev",
             "repo": "StressModel",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "suralmasha",
             "repo": "RuTranscript",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Расстановка ударений, фонетические словари и g2p"
@@ -481,7 +510,8 @@
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -496,7 +526,8 @@
             "owner": "gramdict",
             "repo": "gramdict",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Словари"
@@ -517,7 +548,8 @@
             "owner": "sovaai",
             "repo": "sova-tts-tps",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -532,7 +564,8 @@
             "owner": "e2yo",
             "repo": "eyo-kernel",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -547,7 +580,8 @@
             "owner": "Text-extend-tools",
             "repo": "python-yoficator",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -562,7 +596,8 @@
             "owner": "kalashnikovisme",
             "repo": "karamzin",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -577,7 +612,8 @@
             "owner": "unabashed",
             "repo": "yoficator",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -592,7 +628,8 @@
             "owner": "emacsmirror",
             "repo": "yoficator",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Ёфикаторы"
@@ -613,7 +650,8 @@
             "owner": "salute-developers",
             "repo": "golos",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -628,7 +666,8 @@
             "owner": "aniemore",
             "repo": "Aniemore",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Распознавание эмоций"
@@ -648,8 +687,9 @@
             "last_commit": "2026-07-28T20:18:29Z",
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108030
-          }
+            "stars": 108082
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -664,7 +704,8 @@
             "owner": "salute-developers",
             "repo": "golos",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -679,7 +720,8 @@
             "owner": "sovse",
             "repo": "base_rus_whisper_stt",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Модели для распознавания речи"
@@ -700,7 +742,8 @@
             "owner": "sviperm",
             "repo": "neuro-comma",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -715,7 +758,8 @@
             "owner": "sviperm",
             "repo": "neuro-comma",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -730,7 +774,8 @@
             "owner": "vlomme",
             "repo": "Bert-Russian-punctuation",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -745,7 +790,8 @@
             "owner": "averkij",
             "repo": "multipunct",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -760,7 +806,8 @@
             "owner": "kotikkonstantin",
             "repo": "ru-autopunctuation",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -775,7 +822,8 @@
             "owner": "gleb-skobinsky",
             "repo": "ru_punct",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "marlon-br",
             "repo": "neuro-comma",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -805,7 +854,8 @@
             "owner": "Lesha17",
             "repo": "Punctuation",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         },
         {
           "node_type": "item",
@@ -820,14 +870,15 @@
             "owner": "denis-berezutskiy-lad",
             "repo": "transcription-bert-ru-punctuator-scripts",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
         }
       ],
       "title": "Пунктуация и заглавные буквы"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:14:44.606Z",
+    "last_updated": "2026-08-28T23:13:31.502Z",
     "original_repository_info": {
       "archived": false,
       "id": 634319313,
