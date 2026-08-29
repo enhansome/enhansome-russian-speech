@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning for audio processing",
+            "homepage": null,
             "id": 289688054,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-12-15T19:44:17Z",
+            "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 762
+            "stars": 762,
+            "topics": [
+              "deep-learning",
+              "keyword-spotting",
+              "signal-processing",
+              "speaker-verification",
+              "speech-recognition",
+              "tts",
+              "voice-conversion"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -26,12 +39,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YSDA course in Speech Processing. ",
+            "homepage": null,
             "id": 339100588,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-18T13:35:01Z",
+            "open_issues": 1,
             "owner": "yandexdataschool",
             "repo": "speech_course",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "asr",
+              "dsp",
+              "tts",
+              "vqe"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -42,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Learning Audio Course, 2024",
+            "homepage": null,
             "id": 533872970,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-10-07T08:09:25Z",
+            "open_issues": 0,
             "owner": "severilov",
             "repo": "DL-Audio-Course",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -64,12 +92,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open STT",
+            "homepage": null,
             "id": 180748068,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-11T04:25:54Z",
+            "open_issues": 3,
             "owner": "snakers4",
             "repo": "open_stt",
-            "stars": 825
+            "stars": 825,
+            "topics": [
+              "asr",
+              "automatic-speech-recognition",
+              "dataset",
+              "russian",
+              "speech-to-text",
+              "stt"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -80,12 +120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 494449139,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-21T11:14:26Z",
+            "open_issues": 8,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -96,12 +141,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://sova.ai",
             "id": 229967273,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2022-11-08T14:55:56Z",
+            "open_issues": 1,
             "owner": "sovaai",
             "repo": "sova-dataset",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "audio",
+              "audio-data",
+              "audio-dataset",
+              "audio-datasets",
+              "chinese-dataset",
+              "corpus",
+              "data",
+              "dataset",
+              "datasets",
+              "english-datasets",
+              "open-data",
+              "open-source",
+              "opendata",
+              "opensource",
+              "russian-datasets",
+              "sova-dataset",
+              "voice-data",
+              "voice-dataset",
+              "voice-datasets"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -112,12 +182,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Russian Speech Recognition system based on Mozilla's DeepSpeech TensorFlow implementation.",
+            "homepage": null,
             "id": 124229500,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-01-13T10:56:18Z",
+            "open_issues": 2,
             "owner": "GeorgeFedoseev",
             "repo": "DeepSpeech",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -134,12 +209,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text To Speech Synthesis with Vosk",
+            "homepage": null,
             "id": 624653589,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-06T14:51:50Z",
+            "open_issues": 34,
             "owner": "alphacep",
             "repo": "vosk-tts",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -150,12 +230,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 288532321,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-27T20:49:09Z",
+            "open_issues": 10,
             "owner": "sovaai",
             "repo": "sova-tts",
-            "stars": 163
+            "stars": 163,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -166,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "russian TTS",
+            "homepage": null,
             "id": 671685529,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-11T00:49:04Z",
+            "open_issues": 8,
             "owner": "Tera2Space",
             "repo": "TeraTTS",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -188,12 +278,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Russian text normalization pipeline for speech-to-text and other applications based on tagging s2s networks",
+            "homepage": null,
             "id": 243225588,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-15T06:25:03Z",
+            "open_issues": 5,
             "owner": "snakers4",
             "repo": "russian_stt_text_normalization",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "python3",
+              "pytorch",
+              "russian-language",
+              "speech",
+              "speech-to-text",
+              "text-normalization",
+              "torchscript"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -204,12 +307,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLP-preprocessor for the SOVA-TTS project",
+            "homepage": null,
             "id": 290288579,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-09T18:39:01Z",
+            "open_issues": 1,
             "owner": "sovaai",
             "repo": "sova-tts-tps",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "speech-synthesis",
+              "text-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -220,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Простой нормализатор текстов перед синтезом речи",
+            "homepage": null,
             "id": 796229794,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-13T14:53:56Z",
+            "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "runorm",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -236,12 +352,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Russian Text normalization for TTS using only RegEx.",
+            "homepage": "https://pypi.org/project/rutextnorm/",
             "id": 715689809,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-27T16:02:51Z",
+            "open_issues": 0,
             "owner": "shigabeev",
             "repo": "russian_tts_normalization",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "computational-linguistics",
+              "cyrillic",
+              "nlp",
+              "normalization",
+              "python",
+              "regex",
+              "rule-based",
+              "russian",
+              "russian-nlp",
+              "russian-text-normalization",
+              "russian-tts",
+              "speech-processing",
+              "speech-synthesis",
+              "text-normalization",
+              "text-to-speech",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -252,12 +390,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "T5-based (russian) text normalization",
+            "homepage": "https://hf.co/saarus72/russian_text_normalizer",
             "id": 738524409,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-25T06:30:26Z",
+            "open_issues": 0,
             "owner": "saarus72",
             "repo": "text_normalization",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "nlp",
+              "t5",
+              "tn"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -268,12 +415,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ru-normalizr — лучший нормализатор русского текста без LLM. Приводит числа, даты, время, сокращения, римские цифры, символы и латиницу в русские буквы для использования в TTS и NLP.",
+            "homepage": "https://pypi.org/project/ru-normalizr/",
             "id": 1180091626,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-07T11:12:26Z",
+            "open_issues": 1,
             "owner": "NickZaitsev",
             "repo": "ru-normalizr",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "language",
+              "normalization",
+              "normalizer",
+              "russian",
+              "russian-language",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -284,12 +443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 800511405,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-30T13:12:40Z",
+            "open_issues": 0,
             "owner": "just-ai",
             "repo": "multilingual-text-parser",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -300,12 +464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 111701085,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2017-11-24T18:28:31Z",
+            "open_issues": 0,
             "owner": "ppleskov",
             "repo": "Text-Normalization-Challenge-Russian-Language",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -316,12 +485,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Скрипты обработки текстов для TTS",
+            "homepage": null,
             "id": 431711270,
             "language": "Awk",
+            "license": "Unlicense",
             "last_commit": "2026-08-27T10:57:53Z",
+            "open_issues": 0,
             "owner": "Balamoote",
             "repo": "tts-scripts",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "homography",
+              "text-analysis",
+              "tts"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -338,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Простой расстановщик ударений с обработкой омографов",
+            "homepage": null,
             "id": 682409859,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-17T18:53:48Z",
+            "open_issues": 4,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -354,12 +537,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accentor and transcriptor for Russian language",
+            "homepage": null,
             "id": 120856505,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-19T04:17:13Z",
+            "open_issues": 11,
             "owner": "nsu-ai",
             "repo": "russian_g2p",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "phonetic-transcriptions",
+              "phonetics",
+              "transcriptor"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -370,12 +562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python package russtress accentuates russian text",
+            "homepage": null,
             "id": 118105806,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-13T19:28:05Z",
+            "open_issues": 6,
             "owner": "MashaPo",
             "repo": "russtress",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -386,12 +583,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modified version of RusStress (https://github.com/MashaPo/russtress) — python package for placing stress in Russian text using RNN (BiLSTM) and the \"Grammatical Dictionary\" by A. A. Zaliznyak (from http://odict.ru/).",
+            "homepage": null,
             "id": 306460871,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-07T22:20:48Z",
+            "open_issues": 6,
             "owner": "dbklim",
             "repo": "StressRNN",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "accent",
+              "bilstm",
+              "emphasis",
+              "linguistic",
+              "linguistics",
+              "lstm",
+              "nlp",
+              "rnn",
+              "russian",
+              "russian-accent",
+              "russian-stress",
+              "russtress",
+              "rustress",
+              "stress"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -402,12 +619,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UDAR Does Accented Russian: A finite-state morphological analyzer of Russian that handles stressed wordforms.",
+            "homepage": null,
             "id": 168636327,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-25T03:12:15Z",
+            "open_issues": 18,
             "owner": "reynoldsnlp",
             "repo": "udar",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "accented-characters",
+              "dependency-parser",
+              "disambiguation",
+              "finite-state-machine",
+              "finite-state-morphology",
+              "finite-state-transducers",
+              "fst",
+              "learner-errors",
+              "lemmatization",
+              "morphological-analysis",
+              "morphological-disambiguator",
+              "morphological-generation",
+              "natural-language-processing",
+              "nlp",
+              "pos-tagger",
+              "pos-tagging",
+              "russian",
+              "russian-language",
+              "russian-morphology",
+              "stressed-wordforms"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -418,12 +661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 399434076,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-25T03:19:46Z",
+            "open_issues": 1,
             "owner": "einhornus",
             "repo": "russian_accentuation",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -434,12 +682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiments with grapheme2phoneme for Russian based on the artificial neural networks",
+            "homepage": null,
             "id": 136432922,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-01T08:20:14Z",
+            "open_issues": 0,
             "owner": "nsu-ai-team",
             "repo": "russian_g2p_neuro",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -450,12 +703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Russian accentuator and IPA transcriber",
+            "homepage": null,
             "id": 848971102,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-01T21:01:33Z",
+            "open_issues": 0,
             "owner": "omogr",
             "repo": "omogre",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -466,12 +724,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural model for prediction of stress position in Russian words",
+            "homepage": null,
             "id": 387670920,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-22T12:25:58Z",
+            "open_issues": 0,
             "owner": "Koziev",
             "repo": "StressModel",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "keras",
+              "nlp",
+              "phonetics",
+              "russian-language"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -482,12 +750,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Russian phonetical transcription",
+            "homepage": null,
             "id": 481151470,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-20T11:56:44Z",
+            "open_issues": 2,
             "owner": "suralmasha",
             "repo": "RuTranscript",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "linguistics",
+              "nlp",
+              "text-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -504,12 +781,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UDAR Does Accented Russian: A finite-state morphological analyzer of Russian that handles stressed wordforms.",
+            "homepage": null,
             "id": 168636327,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-25T03:12:15Z",
+            "open_issues": 18,
             "owner": "reynoldsnlp",
             "repo": "udar",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "accented-characters",
+              "dependency-parser",
+              "disambiguation",
+              "finite-state-machine",
+              "finite-state-morphology",
+              "finite-state-transducers",
+              "fst",
+              "learner-errors",
+              "lemmatization",
+              "morphological-analysis",
+              "morphological-disambiguator",
+              "morphological-generation",
+              "natural-language-processing",
+              "nlp",
+              "pos-tagger",
+              "pos-tagging",
+              "russian",
+              "russian-language",
+              "russian-morphology",
+              "stressed-wordforms"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -520,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Веб-версия \"Грамматического словаря\" А. А. Зализняка",
+            "homepage": null,
             "id": 166053132,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-26T19:22:08Z",
+            "open_issues": 52,
             "owner": "gramdict",
             "repo": "gramdict",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -542,12 +850,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLP-preprocessor for the SOVA-TTS project",
+            "homepage": null,
             "id": 290288579,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-09T18:39:01Z",
+            "open_issues": 1,
             "owner": "sovaai",
             "repo": "sova-tts-tps",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "speech-synthesis",
+              "text-processing"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -558,12 +874,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "А node.js module for restoring the letter «ё» (yo) in russian texts",
+            "homepage": "https://e2yo.github.io/eyo-browser/",
             "id": 38011960,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T22:12:34Z",
+            "open_issues": 4,
             "owner": "e2yo",
             "repo": "eyo-kernel",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "eyo",
+              "js",
+              "linter",
+              "nodejs",
+              "russian",
+              "text",
+              "yo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -574,12 +903,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Russian text yoficator",
+            "homepage": null,
             "id": 139611929,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-07-08T14:12:18Z",
+            "open_issues": 0,
             "owner": "Text-extend-tools",
             "repo": "python-yoficator",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "python",
+              "replace",
+              "russian",
+              "text",
+              "yo"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -590,12 +930,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Гем, который вставляет букву Ё в тех местах, где она нужна",
+            "homepage": null,
             "id": 27245562,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-10-27T00:27:17Z",
+            "open_issues": 0,
             "owner": "kalashnikovisme",
             "repo": "karamzin",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -606,12 +951,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Russian text yoficator (ёфикатор).",
+            "homepage": null,
             "id": 46310966,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-30T16:45:04Z",
+            "open_issues": 0,
             "owner": "unabashed",
             "repo": "yoficator",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -622,12 +972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactively yoficate Russian texts",
+            "homepage": "https://gitlab.com/link2xt/yoficator",
             "id": 279876396,
             "language": "Emacs Lisp",
+            "license": "GPL-3.0",
             "last_commit": "2020-07-15T13:30:49Z",
+            "open_issues": 0,
             "owner": "emacsmirror",
             "repo": "yoficator",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -644,12 +999,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 494449139,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-21T11:14:26Z",
+            "open_issues": 8,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -660,12 +1020,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emotions recognition from audio and text files (only russian language)",
+            "homepage": null,
             "id": 489349966,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-23T12:13:35Z",
+            "open_issues": 5,
             "owner": "aniemore",
             "repo": "Aniemore",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "emotion-recognition",
+              "machine-learning",
+              "package",
+              "python",
+              "russian-language",
+              "speech-recognition",
+              "speech-to-text",
+              "text-classification",
+              "voice-classfication"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -682,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "homepage": null,
             "id": 537603333,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T20:18:29Z",
+            "open_issues": 136,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108082
+            "stars": 108089,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -698,12 +1080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 494449139,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-21T11:14:26Z",
+            "open_issues": 8,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -714,12 +1101,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fine tuning of the base model from OpenAI Whisper in Russian language on the dataset Sber-golos",
+            "homepage": null,
             "id": 548344163,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-10-26T07:36:56Z",
+            "open_issues": 0,
             "owner": "sovse",
             "repo": "base_rus_whisper_stt",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "asr",
+              "fine-tuning",
+              "russian-speech-recognation",
+              "whisper"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -736,12 +1133,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇷🇺 Punctuation restoration production-ready model for Russian language 🇷🇺",
+            "homepage": null,
             "id": 374603439,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-09T07:59:17Z",
+            "open_issues": 7,
             "owner": "sviperm",
             "repo": "neuro-comma",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "bert",
+              "deep-learning",
+              "machine-learning",
+              "ner",
+              "nlp",
+              "punctuation-marks",
+              "punctuation-restoration",
+              "python",
+              "pytorch",
+              "russian",
+              "transformer-models"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -752,12 +1166,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇷🇺 Punctuation restoration production-ready model for Russian language 🇷🇺",
+            "homepage": null,
             "id": 374603439,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-09T07:59:17Z",
+            "open_issues": 7,
             "owner": "sviperm",
             "repo": "neuro-comma",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "bert",
+              "deep-learning",
+              "machine-learning",
+              "ner",
+              "nlp",
+              "punctuation-marks",
+              "punctuation-restoration",
+              "python",
+              "pytorch",
+              "russian",
+              "transformer-models"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -768,12 +1199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Простая модель расстановки запятых на основе BERT",
+            "homepage": null,
             "id": 267046409,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-05-27T05:58:22Z",
+            "open_issues": 0,
             "owner": "vlomme",
             "repo": "Bert-Russian-punctuation",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -784,12 +1220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Train punctuation and capitalization models for different languages",
+            "homepage": null,
             "id": 459554107,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-02T11:35:49Z",
+            "open_issues": 3,
             "owner": "averkij",
             "repo": "multipunct",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -800,12 +1241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Punctuation and casing restoration for the Russian Language (BERT-based)",
+            "homepage": null,
             "id": 382814500,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-07T11:19:20Z",
+            "open_issues": 0,
             "owner": "kotikkonstantin",
             "repo": "ru-autopunctuation",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -816,12 +1262,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Нейронная сеть для восстановления пунктуации на русском языке.",
+            "homepage": null,
             "id": 448432003,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-02-28T01:09:39Z",
+            "open_issues": 4,
             "owner": "gleb-skobinsky",
             "repo": "ru_punct",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "deep-learning",
+              "neural-network",
+              "news",
+              "nlp",
+              "punctuation",
+              "punctuation-restoration",
+              "recurrent-neural-network",
+              "recurrent-neural-networks",
+              "russian",
+              "russian-language"
+            ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -832,12 +1294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Punctuation restoration production-ready models for English, Spanish, Portuguese, German, Russian and French languages",
+            "homepage": null,
             "id": 390974300,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-25T18:12:11Z",
+            "open_issues": 0,
             "owner": "marlon-br",
             "repo": "neuro-comma",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -848,12 +1315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Training BERT for punctuation task",
+            "homepage": null,
             "id": 280517374,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-07-30T13:19:06Z",
+            "open_issues": 1,
             "owner": "Lesha17",
             "repo": "Punctuation",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         },
@@ -864,12 +1336,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 717684398,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-11-12T17:09:12Z",
+            "open_issues": 0,
             "owner": "denis-berezutskiy-lad",
             "repo": "transcription-bert-ru-punctuator-scripts",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
         }
@@ -878,15 +1355,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:31.502Z",
+    "last_updated": "2026-08-29T04:47:19.682Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Russian speech technology links",
+      "homepage": null,
       "id": 634319313,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-03-17T02:34:14Z",
+      "open_issues": 2,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
-      "stars": 406
+      "stars": 406,
+      "topics": [
+        "asr",
+        "awesome-list",
+        "g2p",
+        "speech-recognition",
+        "speech-synthesis",
+        "speech-to-text",
+        "tts",
+        "vosk"
+      ]
     },
     "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
     "enhanced_repository": "enhansome/enhansome-russian-speech",
