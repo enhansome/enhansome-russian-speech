@@ -490,7 +490,7 @@
             "id": 431711270,
             "language": "Awk",
             "license": "Unlicense",
-            "last_commit": "2026-08-27T10:57:53Z",
+            "last_commit": "2026-08-29T13:29:35Z",
             "open_issues": 0,
             "owner": "Balamoote",
             "repo": "tts-scripts",
@@ -1068,7 +1068,7 @@
             "open_issues": 136,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108089,
+            "stars": 108122,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:19.682Z",
+    "last_updated": "2026-08-29T17:24:52.241Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
