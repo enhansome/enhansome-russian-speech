@@ -101,7 +101,7 @@
             "open_issues": 3,
             "owner": "snakers4",
             "repo": "open_stt",
-            "stars": 825,
+            "stars": 824,
             "topics": [
               "asr",
               "automatic-speech-recognition",
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-28T20:18:29Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108122,
+            "stars": 108152,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:24:52.241Z",
+    "last_updated": "2026-08-30T17:48:07.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1367,7 +1367,7 @@
       "open_issues": 2,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
-      "stars": 406,
+      "stars": 408,
       "topics": [
         "asr",
         "awesome-list",
