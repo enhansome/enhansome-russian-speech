@@ -48,7 +48,7 @@
             "open_issues": 1,
             "owner": "yandexdataschool",
             "repo": "speech_course",
-            "stars": 346,
+            "stars": 348,
             "topics": [
               "asr",
               "dsp",
@@ -1064,11 +1064,11 @@
             "id": 537603333,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-28T20:18:29Z",
-            "open_issues": 137,
+            "last_commit": "2026-08-31T17:19:19Z",
+            "open_issues": 136,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108152,
+            "stars": 108216,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T17:48:07.749Z",
+    "last_updated": "2026-08-31T19:42:47.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
