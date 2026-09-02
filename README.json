@@ -48,7 +48,7 @@
             "open_issues": 1,
             "owner": "yandexdataschool",
             "repo": "speech_course",
-            "stars": 348,
+            "stars": 350,
             "topics": [
               "asr",
               "dsp",
@@ -624,7 +624,7 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-25T03:12:15Z",
+            "last_commit": "2026-09-02T00:57:21Z",
             "open_issues": 18,
             "owner": "reynoldsnlp",
             "repo": "udar",
@@ -786,7 +786,7 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-25T03:12:15Z",
+            "last_commit": "2026-09-02T00:57:21Z",
             "open_issues": 18,
             "owner": "reynoldsnlp",
             "repo": "udar",
@@ -1068,7 +1068,7 @@
             "open_issues": 138,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108262,
+            "stars": 108317,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:27:54.583Z",
+    "last_updated": "2026-09-02T17:25:16.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
