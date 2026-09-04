@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 139,
+            "open_issues": 142,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108360,
+            "stars": 108418,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:17:57.803Z",
+    "last_updated": "2026-09-04T17:10:30.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
