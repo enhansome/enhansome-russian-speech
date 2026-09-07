@@ -14,8 +14,8 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 763 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-12-15
-* <https://github.com/yandexdataschool/speech_course> ⭐ 350 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
+* <https://github.com/markovka17/dla> ⭐ 762 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2025-12-15
+* <https://github.com/yandexdataschool/speech_course> ⭐ 351 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 93 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
 * <https://www.youtube.com/playlist?list=PLYG3WHDP5CWVRxLjXZbllqIQTWY_QjKmz> - Deep Learning for Audio
@@ -46,7 +46,7 @@
 
 # Синтез речи
 
-* <https://github.com/alphacep/vosk-tts> ⭐ 272 | 🐛 34 | 🌐 Python | 📅 2026-06-06
+* <https://github.com/alphacep/vosk-tts> ⭐ 273 | 🐛 34 | 🌐 Python | 📅 2026-06-06
 * <https://github.com/sovaai/sova-tts> ⭐ 163 | 🐛 10 | 🌐 Python | 📅 2023-04-27
 * <https://github.com/Tera2Space/TeraTTS> ⭐ 87 | 🐛 8 | 🌐 Python | 📅 2025-02-11
 * <https://huggingface.co/datasets/ESpeech/ESpeech-podcasts/> - Espeech podcasts - 3200 hours
@@ -118,7 +118,7 @@
 # Ёфикаторы
 
 * <https://github.com/sovaai/sova-tts-tps> ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2021-04-09
-* <https://github.com/e2yo/eyo-kernel> ⭐ 47 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-20
+* <https://github.com/e2yo/eyo-kernel> ⭐ 47 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-07
 * <https://github.com/Text-extend-tools/python-yoficator> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-07-08
 * <https://github.com/kalashnikovisme/karamzin> ⭐ 4 | 🐛 0 | 🌐 Ruby | 📅 2016-10-27
 * <https://github.com/unabashed/yoficator> ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2018-06-30
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 108,596 | 🐛 145 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 108,698 | 🐛 146 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
