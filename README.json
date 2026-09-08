@@ -525,7 +525,7 @@
             "open_issues": 4,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 204,
+            "stars": 206,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -592,7 +592,7 @@
             "open_issues": 6,
             "owner": "dbklim",
             "repo": "StressRNN",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "accent",
               "bilstm",
@@ -1068,7 +1068,7 @@
             "open_issues": 146,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108698,
+            "stars": 108752,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:25:41.279Z",
+    "last_updated": "2026-09-08T17:35:14.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
