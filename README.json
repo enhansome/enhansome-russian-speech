@@ -218,7 +218,7 @@
             "open_issues": 34,
             "owner": "alphacep",
             "repo": "vosk-tts",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1068,7 +1068,7 @@
             "open_issues": 146,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108752,
+            "stars": 108792,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:35:14.096Z",
+    "last_updated": "2026-09-09T17:20:13.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1367,7 +1367,7 @@
       "open_issues": 2,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
-      "stars": 408,
+      "stars": 409,
       "topics": [
         "asr",
         "awesome-list",
