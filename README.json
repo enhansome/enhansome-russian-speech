@@ -879,8 +879,8 @@
             "id": 38011960,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T14:04:40Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-11T01:51:36Z",
+            "open_issues": 6,
             "owner": "e2yo",
             "repo": "eyo-kernel",
             "stars": 47,
@@ -1068,7 +1068,7 @@
             "open_issues": 148,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108839,
+            "stars": 108902,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:17:42.598Z",
+    "last_updated": "2026-09-11T17:19:59.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
