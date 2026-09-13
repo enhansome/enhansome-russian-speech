@@ -424,7 +424,7 @@
             "open_issues": 1,
             "owner": "NickZaitsev",
             "repo": "ru-normalizr",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "language",
               "normalization",
@@ -879,8 +879,8 @@
             "id": 38011960,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T01:51:36Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-13T10:33:28Z",
+            "open_issues": 7,
             "owner": "e2yo",
             "repo": "eyo-kernel",
             "stars": 47,
@@ -1068,7 +1068,7 @@
             "open_issues": 148,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 108943,
+            "stars": 109004,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:33:14.451Z",
+    "last_updated": "2026-09-13T17:04:29.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
