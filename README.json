@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 763,
+            "stars": 764,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -1068,7 +1068,7 @@
             "open_issues": 148,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109166,
+            "stars": 109214,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:47:04.932Z",
+    "last_updated": "2026-09-16T17:45:53.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
