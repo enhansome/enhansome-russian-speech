@@ -15,11 +15,11 @@
             "id": 289688054,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2025-12-15T19:44:17Z",
+            "last_commit": "2026-09-16T22:54:42Z",
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 764,
+            "stars": 766,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 148,
+            "open_issues": 149,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109214,
+            "stars": 109286,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:45:53.787Z",
+    "last_updated": "2026-09-17T17:45:27.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
