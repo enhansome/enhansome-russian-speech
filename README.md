@@ -14,8 +14,8 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 766 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-16
-* <https://github.com/yandexdataschool/speech_course> ⭐ 351 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
+* <https://github.com/markovka17/dla> ⭐ 767 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-16
+* <https://github.com/yandexdataschool/speech_course> ⭐ 352 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 93 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
 * <https://www.youtube.com/playlist?list=PLYG3WHDP5CWVRxLjXZbllqIQTWY_QjKmz> - Deep Learning for Audio
@@ -94,7 +94,7 @@
 * <https://github.com/nsu-ai/russian_g2p> ⭐ 140 | 🐛 11 | 🌐 Python | 📅 2022-06-19
 * <https://github.com/MashaPo/russtress> ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2020-05-13
 * <https://github.com/Desklop/StressRNN> ⭐ 47 | 🐛 6 | 🌐 Python | 📅 2024-08-07
-* <https://github.com/reynoldsnlp/udar> ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-09-02
+* <https://github.com/reynoldsnlp/udar> ⭐ 30 | 🐛 19 | 🌐 Python | 📅 2026-09-18
 * <https://github.com/einhornus/russian_accentuation> ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-08-25
 * <https://github.com/nsu-ai-team/russian_g2p_neuro> ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2021-04-01
 * <https://github.com/omogr/omogre> ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-01
@@ -107,7 +107,7 @@
 
 # Словари
 
-* <https://github.com/reynoldsnlp/udar/blob/main/src/udar/resources/src/Tixonov.txt> ⭐ 30 | 🐛 18 | 🌐 Python | 📅 2026-09-02 - Морфемно-орфографический словарь Тихонова
+* <https://github.com/reynoldsnlp/udar/blob/main/src/udar/resources/src/Tixonov.txt> ⭐ 30 | 🐛 19 | 🌐 Python | 📅 2026-09-18 - Морфемно-орфографический словарь Тихонова
 * <https://github.com/gramdict/gramdict> ⭐ 23 | 🐛 52 | 🌐 HTML | 📅 2026-07-26 - современная версия словаря Зализняка
 * <http://aot.ru> - Источник словаря Зализняка в машинном формате
 * <http://odict.ru/> - другое развитие Зализняка
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 109,286 | 🐛 149 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 109,332 | 🐛 149 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

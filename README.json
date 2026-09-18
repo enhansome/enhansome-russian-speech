@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -48,7 +48,7 @@
             "open_issues": 1,
             "owner": "yandexdataschool",
             "repo": "speech_course",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "asr",
               "dsp",
@@ -624,8 +624,8 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T00:57:21Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-18T01:31:19Z",
+            "open_issues": 19,
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30,
@@ -786,8 +786,8 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-02T00:57:21Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-18T01:31:19Z",
+            "open_issues": 19,
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30,
@@ -1068,7 +1068,7 @@
             "open_issues": 149,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109286,
+            "stars": 109332,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:45:27.307Z",
+    "last_updated": "2026-09-18T17:17:01.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
