@@ -624,8 +624,8 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T01:31:19Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-18T18:07:33Z",
+            "open_issues": 20,
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30,
@@ -786,8 +786,8 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T01:31:19Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-18T18:07:33Z",
+            "open_issues": 20,
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30,
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 149,
+            "open_issues": 150,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109332,
+            "stars": 109367,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:17:01.315Z",
+    "last_updated": "2026-09-19T16:49:45.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
