@@ -313,7 +313,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2021-04-09T18:39:01Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sovaai",
             "repo": "sova-tts-tps",
             "stars": 53,
@@ -754,9 +754,9 @@
             "homepage": null,
             "id": 481151470,
             "language": "Python",
-            "license": null,
-            "last_commit": "2026-05-20T11:56:44Z",
-            "open_issues": 2,
+            "license": "MIT",
+            "last_commit": "2026-09-22T16:05:31Z",
+            "open_issues": 0,
             "owner": "suralmasha",
             "repo": "RuTranscript",
             "stars": 11,
@@ -856,7 +856,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2021-04-09T18:39:01Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "sovaai",
             "repo": "sova-tts-tps",
             "stars": 53,
@@ -1029,7 +1029,7 @@
             "open_issues": 5,
             "owner": "aniemore",
             "repo": "Aniemore",
-            "stars": 83,
+            "stars": 82,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1068,7 +1068,7 @@
             "open_issues": 152,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109436,
+            "stars": 109474,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:56:07.281Z",
+    "last_updated": "2026-09-22T17:46:34.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
