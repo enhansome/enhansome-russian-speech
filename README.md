@@ -14,7 +14,7 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 767 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-16
+* <https://github.com/markovka17/dla> ⭐ 768 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-09-23
 * <https://github.com/yandexdataschool/speech_course> ⭐ 352 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 93 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
@@ -74,7 +74,7 @@
 # Общая предобработка для синтеза
 
 * <https://github.com/snakers4/russian_stt_text_normalization> ⚠️ Archived
-* <https://github.com/sovaai/sova-tts-tps> ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2021-04-09
+* <https://github.com/sovaai/sova-tts-tps> ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2021-04-09
 * <https://github.com/Den4ikAI/runorm> ⭐ 49 | 🐛 5 | 🌐 Python | 📅 2024-05-13 - числа в текст, обработка английских слов, раскрытие сокращений
 * <https://github.com/shigabeev/russian_tts_normalization> ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2026-06-27
 * <https://github.com/saarus72/text_normalization/tree/dev> ⭐ 27 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-25 - на основе Fred-T5
@@ -99,7 +99,7 @@
 * <https://github.com/nsu-ai-team/russian_g2p_neuro> ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2021-04-01
 * <https://github.com/omogr/omogre> ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-01
 * <https://github.com/Koziev/StressModel> ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-06-22
-* <https://github.com/suralmasha/RuTranscript> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-09-22
+* <https://github.com/suralmasha/RuTranscript> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-09-23
 * <https://github.com/wilpert/RusPhonetizer>
 * <https://huggingface.co/bene-ges/ru_g2p_ipa_bert_large>
 * <https://huggingface.co/IlyaGusev/ru-word-stress-transformer>
@@ -117,7 +117,7 @@
 
 # Ёфикаторы
 
-* <https://github.com/sovaai/sova-tts-tps> ⭐ 53 | 🐛 2 | 🌐 Python | 📅 2021-04-09
+* <https://github.com/sovaai/sova-tts-tps> ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2021-04-09
 * <https://github.com/e2yo/eyo-kernel> ⭐ 47 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-13
 * <https://github.com/Text-extend-tools/python-yoficator> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-07-08
 * <https://github.com/kalashnikovisme/karamzin> ⭐ 4 | 🐛 0 | 🌐 Ruby | 📅 2016-10-27
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 109,474 | 🐛 152 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 109,513 | 🐛 151 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

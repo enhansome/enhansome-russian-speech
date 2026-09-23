@@ -15,11 +15,11 @@
             "id": 289688054,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-16T22:54:42Z",
+            "last_commit": "2026-09-23T11:13:06Z",
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 767,
+            "stars": 768,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -313,10 +313,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2021-04-09T18:39:01Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "sovaai",
             "repo": "sova-tts-tps",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "speech-synthesis",
               "text-processing"
@@ -755,7 +755,7 @@
             "id": 481151470,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-22T16:05:31Z",
+            "last_commit": "2026-09-23T10:03:09Z",
             "open_issues": 0,
             "owner": "suralmasha",
             "repo": "RuTranscript",
@@ -856,10 +856,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2021-04-09T18:39:01Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "sovaai",
             "repo": "sova-tts-tps",
-            "stars": 53,
+            "stars": 54,
             "topics": [
               "speech-synthesis",
               "text-processing"
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 152,
+            "open_issues": 151,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109474,
+            "stars": 109513,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:46:34.375Z",
+    "last_updated": "2026-09-23T17:59:30.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
