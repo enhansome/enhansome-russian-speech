@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 769,
+            "stars": 770,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -546,7 +546,7 @@
             "open_issues": 11,
             "owner": "nsu-ai",
             "repo": "russian_g2p",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "phonetic-transcriptions",
               "phonetics",
@@ -1068,7 +1068,7 @@
             "open_issues": 154,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109650,
+            "stars": 109702,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T17:56:56.761Z",
+    "last_updated": "2026-09-28T20:16:18.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
