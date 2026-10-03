@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "markovka17/dla",
-          "description": null,
+          "description": "markovka17/dla",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "yandexdataschool/speech_course",
-          "description": null,
+          "description": "yandexdataschool/speech_course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "severilov/DL-Audio-Course",
-          "description": null,
+          "description": "severilov/DL-Audio-Course",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,7 +88,7 @@
         {
           "node_type": "item",
           "title": "snakers4/open_stt",
-          "description": null,
+          "description": "snakers4/open_stt",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -116,7 +116,7 @@
         {
           "node_type": "item",
           "title": "salute-developers/golos",
-          "description": null,
+          "description": "salute-developers/golos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -137,7 +137,7 @@
         {
           "node_type": "item",
           "title": "sovaai/sova-dataset",
-          "description": null,
+          "description": "sovaai/sova-dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -178,7 +178,7 @@
         {
           "node_type": "item",
           "title": "GeorgeFedoseev/DeepSpeech",
-          "description": null,
+          "description": "GeorgeFedoseev/DeepSpeech",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,7 +205,7 @@
         {
           "node_type": "item",
           "title": "alphacep/vosk-tts",
-          "description": null,
+          "description": "alphacep/vosk-tts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -226,7 +226,7 @@
         {
           "node_type": "item",
           "title": "sovaai/sova-tts",
-          "description": null,
+          "description": "sovaai/sova-tts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -247,7 +247,7 @@
         {
           "node_type": "item",
           "title": "Tera2Space/TeraTTS",
-          "description": null,
+          "description": "Tera2Space/TeraTTS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -274,7 +274,7 @@
         {
           "node_type": "item",
           "title": "snakers4/russian_stt_text_normalization",
-          "description": null,
+          "description": "snakers4/russian_stt_text_normalization",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -303,7 +303,7 @@
         {
           "node_type": "item",
           "title": "sovaai/sova-tts-tps",
-          "description": null,
+          "description": "sovaai/sova-tts-tps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
         {
           "node_type": "item",
           "title": "shigabeev/russian_tts_normalization",
-          "description": null,
+          "description": "shigabeev/russian_tts_normalization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -439,7 +439,7 @@
         {
           "node_type": "item",
           "title": "just-ai/multilingual-text-parser",
-          "description": null,
+          "description": "just-ai/multilingual-text-parser",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -533,7 +533,7 @@
         {
           "node_type": "item",
           "title": "nsu-ai/russian_g2p",
-          "description": null,
+          "description": "nsu-ai/russian_g2p",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
         {
           "node_type": "item",
           "title": "MashaPo/russtress",
-          "description": null,
+          "description": "MashaPo/russtress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -579,7 +579,7 @@
         {
           "node_type": "item",
           "title": "dbklim/StressRNN",
-          "description": null,
+          "description": "dbklim/StressRNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -615,7 +615,7 @@
         {
           "node_type": "item",
           "title": "reynoldsnlp/udar",
-          "description": null,
+          "description": "reynoldsnlp/udar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -657,7 +657,7 @@
         {
           "node_type": "item",
           "title": "einhornus/russian_accentuation",
-          "description": null,
+          "description": "einhornus/russian_accentuation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "nsu-ai-team/russian_g2p_neuro",
-          "description": null,
+          "description": "nsu-ai-team/russian_g2p_neuro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -699,7 +699,7 @@
         {
           "node_type": "item",
           "title": "omogr/omogre",
-          "description": null,
+          "description": "omogr/omogre",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -720,7 +720,7 @@
         {
           "node_type": "item",
           "title": "Koziev/StressModel",
-          "description": null,
+          "description": "Koziev/StressModel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -746,7 +746,7 @@
         {
           "node_type": "item",
           "title": "suralmasha/RuTranscript",
-          "description": null,
+          "description": "suralmasha/RuTranscript",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "sovaai/sova-tts-tps",
-          "description": null,
+          "description": "sovaai/sova-tts-tps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -870,7 +870,7 @@
         {
           "node_type": "item",
           "title": "e2yo/eyo-kernel",
-          "description": null,
+          "description": "e2yo/eyo-kernel",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -899,7 +899,7 @@
         {
           "node_type": "item",
           "title": "Text-extend-tools/python-yoficator",
-          "description": null,
+          "description": "Text-extend-tools/python-yoficator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -926,7 +926,7 @@
         {
           "node_type": "item",
           "title": "kalashnikovisme/karamzin",
-          "description": null,
+          "description": "kalashnikovisme/karamzin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -947,7 +947,7 @@
         {
           "node_type": "item",
           "title": "unabashed/yoficator",
-          "description": null,
+          "description": "unabashed/yoficator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -968,7 +968,7 @@
         {
           "node_type": "item",
           "title": "emacsmirror/yoficator",
-          "description": null,
+          "description": "emacsmirror/yoficator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -995,7 +995,7 @@
         {
           "node_type": "item",
           "title": "salute-developers/golos",
-          "description": null,
+          "description": "salute-developers/golos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1016,7 +1016,7 @@
         {
           "node_type": "item",
           "title": "aniemore/Aniemore",
-          "description": null,
+          "description": "aniemore/Aniemore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1055,7 +1055,7 @@
         {
           "node_type": "item",
           "title": "Whisper medium https://github.com/openai/whisper",
-          "description": null,
+          "description": "openai/whisper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1068,7 +1068,7 @@
             "open_issues": 158,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 109876,
+            "stars": 109888,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1076,7 +1076,7 @@
         {
           "node_type": "item",
           "title": "Salute Citrinet https://github.com/salute-developers/golos",
-          "description": null,
+          "description": "salute-developers/golos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1097,7 +1097,7 @@
         {
           "node_type": "item",
           "title": "sovse/base_rus_whisper_stt",
-          "description": null,
+          "description": "sovse/base_rus_whisper_stt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1129,7 +1129,7 @@
         {
           "node_type": "item",
           "title": "sviperm/neuro-comma",
-          "description": null,
+          "description": "sviperm/neuro-comma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1162,7 +1162,7 @@
         {
           "node_type": "item",
           "title": "sviperm/neuro-comma",
-          "description": null,
+          "description": "sviperm/neuro-comma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1195,7 +1195,7 @@
         {
           "node_type": "item",
           "title": "vlomme/Bert-Russian-punctuation",
-          "description": null,
+          "description": "vlomme/Bert-Russian-punctuation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1216,7 +1216,7 @@
         {
           "node_type": "item",
           "title": "averkij/multipunct",
-          "description": null,
+          "description": "averkij/multipunct",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1237,7 +1237,7 @@
         {
           "node_type": "item",
           "title": "kotikkonstantin/ru-autopunctuation",
-          "description": null,
+          "description": "kotikkonstantin/ru-autopunctuation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1258,7 +1258,7 @@
         {
           "node_type": "item",
           "title": "gleb-skobinsky/ru_punct",
-          "description": null,
+          "description": "gleb-skobinsky/ru_punct",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1290,7 +1290,7 @@
         {
           "node_type": "item",
           "title": "marlon-br/neuro-comma",
-          "description": null,
+          "description": "marlon-br/neuro-comma",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1311,7 +1311,7 @@
         {
           "node_type": "item",
           "title": "Lesha17/Punctuation",
-          "description": null,
+          "description": "Lesha17/Punctuation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:15.486Z",
+    "last_updated": "2026-10-03T05:07:56.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
