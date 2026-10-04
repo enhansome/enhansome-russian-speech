@@ -98,7 +98,7 @@
 * <https://github.com/einhornus/russian_accentuation> ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-08-25
 * <https://github.com/nsu-ai-team/russian_g2p_neuro> ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2021-04-01
 * <https://github.com/omogr/omogre> ⭐ 17 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-01
-* <https://github.com/Koziev/StressModel> ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-06-22
+* <https://github.com/Koziev/StressModel> ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-06-22
 * <https://github.com/suralmasha/RuTranscript> ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-09-23
 * <https://github.com/wilpert/RusPhonetizer>
 * <https://huggingface.co/bene-ges/ru_g2p_ipa_bert_large>
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 109,906 | 🐛 158 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 109,961 | 🐛 160 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
