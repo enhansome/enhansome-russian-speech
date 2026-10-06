@@ -15,7 +15,7 @@
             "id": 289688054,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-09-25T16:58:21Z",
+            "last_commit": "2026-10-05T22:17:18Z",
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
@@ -1029,7 +1029,7 @@
             "open_issues": 5,
             "owner": "aniemore",
             "repo": "Aniemore",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 161,
+            "open_issues": 163,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110003,
+            "stars": 110032,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:29:36.602Z",
+    "last_updated": "2026-10-06T10:33:31.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
