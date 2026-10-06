@@ -48,7 +48,7 @@
             "open_issues": 1,
             "owner": "yandexdataschool",
             "repo": "speech_course",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "asr",
               "dsp",
@@ -1068,7 +1068,7 @@
             "open_issues": 163,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110032,
+            "stars": 110048,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:31.424Z",
+    "last_updated": "2026-10-06T19:07:55.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1367,7 +1367,7 @@
       "open_issues": 2,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
-      "stars": 411,
+      "stars": 410,
       "topics": [
         "asr",
         "awesome-list",
