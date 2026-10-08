@@ -1068,7 +1068,7 @@
             "open_issues": 166,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110102,
+            "stars": 110155,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:35:29.257Z",
+    "last_updated": "2026-10-08T19:31:00.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1364,7 +1364,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-03-17T02:34:14Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
       "stars": 410,
