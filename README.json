@@ -15,7 +15,7 @@
             "id": 289688054,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-05T22:17:18Z",
+            "last_commit": "2026-10-08T23:11:31Z",
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
@@ -340,7 +340,7 @@
             "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "runorm",
-            "stars": 49,
+            "stars": 50,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -525,7 +525,7 @@
             "open_issues": 4,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 212,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -624,8 +624,8 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T18:07:33Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-09T18:38:40Z",
+            "open_issues": 21,
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30,
@@ -786,8 +786,8 @@
             "id": 168636327,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T18:07:33Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-09T18:38:40Z",
+            "open_issues": 21,
             "owner": "reynoldsnlp",
             "repo": "udar",
             "stars": 30,
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 166,
+            "open_issues": 168,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110155,
+            "stars": 110215,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:31:00.466Z",
+    "last_updated": "2026-10-09T19:03:36.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
