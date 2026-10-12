@@ -420,8 +420,8 @@
             "id": 1180091626,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-07T11:12:26Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-12T15:11:04Z",
+            "open_issues": 0,
             "owner": "NickZaitsev",
             "repo": "ru-normalizr",
             "stars": 26,
@@ -1068,7 +1068,7 @@
             "open_issues": 169,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110321,
+            "stars": 110388,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:29:10.276Z",
+    "last_updated": "2026-10-12T21:53:02.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
