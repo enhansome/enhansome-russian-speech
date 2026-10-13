@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 769,
+            "stars": 770,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -1029,7 +1029,7 @@
             "open_issues": 5,
             "owner": "aniemore",
             "repo": "Aniemore",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1068,7 +1068,7 @@
             "open_issues": 169,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110388,
+            "stars": 110456,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T21:53:02.687Z",
+    "last_updated": "2026-10-13T19:58:03.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
