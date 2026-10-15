@@ -14,7 +14,7 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 770 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-08
+* <https://github.com/markovka17/dla> ⭐ 771 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-08
 * <https://github.com/yandexdataschool/speech_course> ⭐ 353 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 93 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
@@ -24,7 +24,7 @@
 
 * <https://github.com/snakers4/open_stt> ⚠️ Archived
 
-* <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
+* <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 
 * <https://github.com/sovaai/sova-dataset> ⭐ 142 | 🐛 1 | 📅 2022-11-08
 
@@ -46,7 +46,7 @@
 
 # Синтез речи
 
-* <https://github.com/alphacep/vosk-tts> ⭐ 274 | 🐛 34 | 🌐 Python | 📅 2026-06-06
+* <https://github.com/alphacep/vosk-tts> ⭐ 275 | 🐛 34 | 🌐 Python | 📅 2026-06-06
 * <https://github.com/sovaai/sova-tts> ⭐ 163 | 🐛 10 | 🌐 Python | 📅 2023-04-27
 * <https://github.com/Tera2Space/TeraTTS> ⭐ 87 | 🐛 8 | 🌐 Python | 📅 2025-02-11
 * <https://huggingface.co/datasets/ESpeech/ESpeech-podcasts/> - Espeech podcasts - 3200 hours
@@ -126,8 +126,8 @@
 
 # Распознавание эмоций
 
-* <https://github.com/salute-developers/golos/tree/master/dusha> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
-* <https://github.com/aniemore/Aniemore> ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2025-06-23
+* <https://github.com/salute-developers/golos/tree/master/dusha> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
+* <https://github.com/aniemore/Aniemore> ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2025-06-23
 * <https://huggingface.co/xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned>
 * <https://huggingface.co/datasets/Aniemore/resd_annotated>
 
@@ -135,8 +135,8 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 110,491 | 🐛 169 | 🌐 Python | 📅 2026-08-31
-* Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 146 | 🐛 8 | 🌐 Python | 📅 2025-05-21
+* Whisper medium <https://github.com/openai/whisper> ⭐ 110,554 | 🐛 171 | 🌐 Python | 📅 2026-08-31
+* Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
 * Vosk Big 0.42 <https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

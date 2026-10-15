@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -129,7 +129,7 @@
             "open_issues": 8,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -218,7 +218,7 @@
             "open_issues": 34,
             "owner": "alphacep",
             "repo": "vosk-tts",
-            "stars": 274,
+            "stars": 275,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1008,7 +1008,7 @@
             "open_issues": 8,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1029,7 +1029,7 @@
             "open_issues": 5,
             "owner": "aniemore",
             "repo": "Aniemore",
-            "stars": 84,
+            "stars": 83,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 169,
+            "open_issues": 171,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110491,
+            "stars": 110554,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 8,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:11:22.833Z",
+    "last_updated": "2026-10-15T17:54:49.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
