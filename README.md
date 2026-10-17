@@ -118,7 +118,7 @@
 # Ёфикаторы
 
 * <https://github.com/sovaai/sova-tts-tps> ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2021-04-09
-* <https://github.com/e2yo/eyo-kernel> ⭐ 47 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03
+* <https://github.com/e2yo/eyo-kernel> ⭐ 47 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-17
 * <https://github.com/Text-extend-tools/python-yoficator> ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2018-07-08
 * <https://github.com/kalashnikovisme/karamzin> ⭐ 4 | 🐛 0 | 🌐 Ruby | 📅 2016-10-27
 * <https://github.com/unabashed/yoficator> ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2018-06-30
@@ -135,7 +135,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 110,681 | 🐛 172 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 110,748 | 🐛 172 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -200,4 +200,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

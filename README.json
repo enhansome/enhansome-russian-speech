@@ -101,7 +101,7 @@
             "open_issues": 3,
             "owner": "snakers4",
             "repo": "open_stt",
-            "stars": 824,
+            "stars": 823,
             "topics": [
               "asr",
               "automatic-speech-recognition",
@@ -879,8 +879,8 @@
             "id": 38011960,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T16:37:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-17T10:08:56Z",
+            "open_issues": 8,
             "owner": "e2yo",
             "repo": "eyo-kernel",
             "stars": 47,
@@ -1068,7 +1068,7 @@
             "open_issues": 172,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 110681,
+            "stars": 110748,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1355,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:42:27.867Z",
+    "last_updated": "2026-10-17T16:40:20.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
