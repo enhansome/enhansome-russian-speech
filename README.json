@@ -78,6 +78,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AntonOkhotnikov/ai-talent-hub-itmo-speech-course",
+          "description": "AntonOkhotnikov/ai-talent-hub-itmo-speech-course",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ITMO AI Talent Hub Speech Recognition and Generation course",
+            "homepage": null,
+            "id": 924701539,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-04-16T14:35:07Z",
+            "open_issues": 1,
+            "owner": "AntonOkhotnikov",
+            "repo": "ai-talent-hub-itmo-speech-course",
+            "stars": 18,
+            "topics": []
+          },
+          "first_seen": "2026-10-25T17:15:33.834Z"
         }
       ],
       "title": "Курсы"
@@ -1068,7 +1089,7 @@
             "open_issues": 179,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 111189,
+            "stars": 111245,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1355,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:01:43.707Z",
+    "last_updated": "2026-10-25T17:15:33.834Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1363,7 +1384,7 @@
       "id": 634319313,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-03-17T02:34:14Z",
+      "last_commit": "2026-10-24T19:45:12Z",
       "open_issues": 4,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
@@ -1379,7 +1400,7 @@
         "vosk"
       ]
     },
-    "original_repository_sha": "35a00397d3467fb49907d81e36c1cfcf35c9de8c",
+    "original_repository_sha": "1456831a465a8de8e85e36e9e0f8736b3fb88a68",
     "enhanced_repository": "enhansome/enhansome-russian-speech",
     "enhanced_repository_description": null,
     "title": "Awesome Речевые технологии для русского языка with stars"
