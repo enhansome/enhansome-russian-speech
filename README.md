@@ -14,10 +14,10 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 774 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-22
+* <https://github.com/markovka17/dla> ⭐ 775 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-22
 * <https://github.com/yandexdataschool/speech_course> ⭐ 354 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 94 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
-* <https://github.com/AntonOkhotnikov/ai-talent-hub-itmo-speech-course> ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2026-04-16
+* <https://github.com/AntonOkhotnikov/ai-talent-hub-itmo-speech-course> ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2026-04-16
 * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
 * <https://www.youtube.com/playlist?list=PLYG3WHDP5CWVRxLjXZbllqIQTWY_QjKmz> - Deep Learning for Audio
 
@@ -25,7 +25,7 @@
 
 * <https://github.com/snakers4/open_stt> ⚠️ Archived
 
-* <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
+* <https://github.com/salute-developers/golos> ⭐ 148 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 
 * <https://github.com/sovaai/sova-dataset> ⭐ 142 | 🐛 1 | 📅 2022-11-08
 
@@ -91,7 +91,7 @@
 
 # Расстановка ударений, фонетические словари и g2p
 
-* <https://github.com/Den4ikAI/ruaccent> ⭐ 216 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
+* <https://github.com/Den4ikAI/ruaccent> ⭐ 217 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
 * <https://github.com/nsu-ai/russian_g2p> ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2022-06-19
 * <https://github.com/MashaPo/russtress> ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2020-05-13
 * <https://github.com/Desklop/StressRNN> ⭐ 48 | 🐛 6 | 🌐 Python | 📅 2024-08-07
@@ -127,7 +127,7 @@
 
 # Распознавание эмоций
 
-* <https://github.com/salute-developers/golos/tree/master/dusha> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
+* <https://github.com/salute-developers/golos/tree/master/dusha> ⭐ 148 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * <https://github.com/aniemore/Aniemore> ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2025-06-23
 * <https://huggingface.co/xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned>
 * <https://huggingface.co/datasets/Aniemore/resd_annotated>
@@ -136,8 +136,8 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 111,245 | 🐛 179 | 🌐 Python | 📅 2026-08-31
-* Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 147 | 🐛 8 | 🌐 Python | 📅 2025-05-21
+* Whisper medium <https://github.com/openai/whisper> ⭐ 111,333 | 🐛 180 | 🌐 Python | 📅 2026-08-31
+* Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 148 | 🐛 8 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
 * Vosk Big 0.42 <https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip>
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
