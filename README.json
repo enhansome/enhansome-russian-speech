@@ -15,11 +15,11 @@
             "id": 289688054,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-22T08:07:01Z",
+            "last_commit": "2026-10-28T10:59:35Z",
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 775,
+            "stars": 776,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -147,7 +147,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-05-21T11:14:26Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
             "stars": 148,
@@ -382,7 +382,7 @@
             "open_issues": 0,
             "owner": "shigabeev",
             "repo": "russian_tts_normalization",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "computational-linguistics",
               "cyrillic",
@@ -420,7 +420,7 @@
             "open_issues": 0,
             "owner": "saarus72",
             "repo": "text_normalization",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "nlp",
               "t5",
@@ -546,7 +546,7 @@
             "open_issues": 4,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 217,
+            "stars": 218,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1026,7 +1026,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-05-21T11:14:26Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
             "stars": 148,
@@ -1089,7 +1089,7 @@
             "open_issues": 180,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 111396,
+            "stars": 111476,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1107,7 +1107,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-05-21T11:14:26Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
             "stars": 148,
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:00:27.225Z",
+    "last_updated": "2026-10-28T19:08:56.670Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
