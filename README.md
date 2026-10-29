@@ -136,7 +136,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 111,476 | 🐛 180 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 111,536 | 🐛 180 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
