@@ -16,7 +16,7 @@
 
 * <https://github.com/markovka17/dla> ⭐ 777 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-28
 * <https://github.com/yandexdataschool/speech_course> ⭐ 354 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
-* <https://github.com/severilov/DL-Audio-Course> ⭐ 94 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
+* <https://github.com/severilov/DL-Audio-Course> ⭐ 95 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://github.com/AntonOkhotnikov/ai-talent-hub-itmo-speech-course> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-04-16
 * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
 * <https://www.youtube.com/playlist?list=PLYG3WHDP5CWVRxLjXZbllqIQTWY_QjKmz> - Deep Learning for Audio
@@ -78,8 +78,8 @@
 * <https://github.com/sovaai/sova-tts-tps> ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2021-04-09
 * <https://github.com/Den4ikAI/runorm> ⭐ 50 | 🐛 5 | 🌐 Python | 📅 2024-05-13 - числа в текст, обработка английских слов, раскрытие сокращений
 * <https://github.com/shigabeev/russian_tts_normalization> ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2026-06-27
+* <https://github.com/NickZaitsev/ru-normalizr> ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - преобразователь на регулярных выражениях
 * <https://github.com/saarus72/text_normalization/tree/dev> ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-25 - на основе Fred-T5
-* <https://github.com/NickZaitsev/ru-normalizr> ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - преобразователь на регулярных выражениях
 * <https://github.com/just-ai/multilingual-text-parser> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-05-30
 * <https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language> ⭐ 7 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-11-24 - один из победителей
 * <https://github.com/Balamoote/tts-scripts> ⭐ 4 | 🐛 0 | 🌐 Awk | 📅 2026-10-07 - куча скриптов awk и данных для озвучки книг
@@ -91,7 +91,7 @@
 
 # Расстановка ударений, фонетические словари и g2p
 
-* <https://github.com/Den4ikAI/ruaccent> ⭐ 218 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
+* <https://github.com/Den4ikAI/ruaccent> ⭐ 219 | 🐛 4 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
 * <https://github.com/nsu-ai/russian_g2p> ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2022-06-19
 * <https://github.com/MashaPo/russtress> ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2020-05-13
 * <https://github.com/Desklop/StressRNN> ⭐ 48 | 🐛 6 | 🌐 Python | 📅 2024-08-07
@@ -136,7 +136,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 111,593 | 🐛 180 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 111,641 | 🐛 179 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

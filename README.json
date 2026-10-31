@@ -74,7 +74,7 @@
             "open_issues": 0,
             "owner": "severilov",
             "repo": "DL-Audio-Course",
-            "stars": 94,
+            "stars": 95,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -406,6 +406,34 @@
         },
         {
           "node_type": "item",
+          "title": "NickZaitsev/ru-normalizr",
+          "description": "преобразователь на регулярных выражениях",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ru-normalizr — лучший нормализатор русского текста без LLM. Приводит числа, даты, время, сокращения, римские цифры, символы и латиницу в русские буквы для использования в TTS и NLP.",
+            "homepage": "https://pypi.org/project/ru-normalizr/",
+            "id": 1180091626,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-12T15:11:04Z",
+            "open_issues": 0,
+            "owner": "NickZaitsev",
+            "repo": "ru-normalizr",
+            "stars": 29,
+            "topics": [
+              "language",
+              "normalization",
+              "normalizer",
+              "russian",
+              "russian-language",
+              "tts"
+            ]
+          },
+          "first_seen": "2026-08-28T23:13:31.502Z"
+        },
+        {
+          "node_type": "item",
           "title": "saarus72/text_normalization",
           "description": "на основе Fred-T5",
           "children": [],
@@ -425,34 +453,6 @@
               "nlp",
               "t5",
               "tn"
-            ]
-          },
-          "first_seen": "2026-08-28T23:13:31.502Z"
-        },
-        {
-          "node_type": "item",
-          "title": "NickZaitsev/ru-normalizr",
-          "description": "преобразователь на регулярных выражениях",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "ru-normalizr — лучший нормализатор русского текста без LLM. Приводит числа, даты, время, сокращения, римские цифры, символы и латиницу в русские буквы для использования в TTS и NLP.",
-            "homepage": "https://pypi.org/project/ru-normalizr/",
-            "id": 1180091626,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-12T15:11:04Z",
-            "open_issues": 0,
-            "owner": "NickZaitsev",
-            "repo": "ru-normalizr",
-            "stars": 27,
-            "topics": [
-              "language",
-              "normalization",
-              "normalizer",
-              "russian",
-              "russian-language",
-              "tts"
             ]
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -546,7 +546,7 @@
             "open_issues": 4,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 218,
+            "stars": 219,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1086,10 +1086,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 180,
+            "open_issues": 179,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 111593,
+            "stars": 111641,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:54:08.825Z",
+    "last_updated": "2026-10-31T17:58:38.003Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
