@@ -15,7 +15,7 @@
             "id": 289688054,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-10-28T10:59:35Z",
+            "last_commit": "2026-11-03T22:14:17Z",
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
@@ -150,7 +150,7 @@
             "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1029,7 +1029,7 @@
             "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1086,10 +1086,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 179,
+            "open_issues": 181,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 111875,
+            "stars": 111953,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1110,7 +1110,7 @@
             "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 148,
+            "stars": 149,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:17:34.136Z",
+    "last_updated": "2026-11-04T20:34:08.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",

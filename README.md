@@ -14,7 +14,7 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 777 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-28
+* <https://github.com/markovka17/dla> ⭐ 777 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-03
 * <https://github.com/yandexdataschool/speech_course> ⭐ 354 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 95 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://github.com/AntonOkhotnikov/ai-talent-hub-itmo-speech-course> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-04-16
@@ -25,7 +25,7 @@
 
 * <https://github.com/snakers4/open_stt> ⚠️ Archived
 
-* <https://github.com/salute-developers/golos> ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2025-05-21
+* <https://github.com/salute-developers/golos> ⭐ 149 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 
 * <https://github.com/sovaai/sova-dataset> ⭐ 142 | 🐛 1 | 📅 2022-11-08
 
@@ -127,7 +127,7 @@
 
 # Распознавание эмоций
 
-* <https://github.com/salute-developers/golos/tree/master/dusha> ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2025-05-21
+* <https://github.com/salute-developers/golos/tree/master/dusha> ⭐ 149 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * <https://github.com/aniemore/Aniemore> ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2025-06-23
 * <https://huggingface.co/xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned>
 * <https://huggingface.co/datasets/Aniemore/resd_annotated>
@@ -136,8 +136,8 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 111,875 | 🐛 179 | 🌐 Python | 📅 2026-08-31
-* Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 148 | 🐛 7 | 🌐 Python | 📅 2025-05-21
+* Whisper medium <https://github.com/openai/whisper> ⭐ 111,953 | 🐛 181 | 🌐 Python | 📅 2026-08-31
+* Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 149 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
 * Vosk Big 0.42 <https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip>
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
