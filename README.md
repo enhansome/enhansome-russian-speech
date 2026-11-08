@@ -14,7 +14,7 @@
 
 # Курсы
 
-* <https://github.com/markovka17/dla> ⭐ 777 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-06
+* <https://github.com/markovka17/dla> ⭐ 777 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-08
 * <https://github.com/yandexdataschool/speech_course> ⭐ 354 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2026-05-18
 * <https://github.com/severilov/DL-Audio-Course> ⭐ 95 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-10-07
 * <https://github.com/AntonOkhotnikov/ai-talent-hub-itmo-speech-course> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-04-16
@@ -136,7 +136,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 112,176 | 🐛 181 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 112,243 | 🐛 182 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 149 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
