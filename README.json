@@ -546,7 +546,7 @@
             "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 221,
+            "stars": 222,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1086,10 +1086,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 181,
+            "open_issues": 183,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112371,
+            "stars": 112593,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:37:37.322Z",
+    "last_updated": "2026-11-12T21:08:53.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
