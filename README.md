@@ -77,7 +77,7 @@
 * <https://github.com/snakers4/russian_stt_text_normalization> ⚠️ Archived
 * <https://github.com/sovaai/sova-tts-tps> ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2021-04-09
 * <https://github.com/Den4ikAI/runorm> ⭐ 50 | 🐛 5 | 🌐 Python | 📅 2024-05-13 - числа в текст, обработка английских слов, раскрытие сокращений
-* <https://github.com/shigabeev/russian_tts_normalization> ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2026-06-27
+* <https://github.com/shigabeev/russian_tts_normalization> ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2026-06-27
 * <https://github.com/NickZaitsev/ru-normalizr> ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-10-12 - преобразователь на регулярных выражениях
 * <https://github.com/saarus72/text_normalization/tree/dev> ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-25 - на основе Fred-T5
 * <https://github.com/just-ai/multilingual-text-parser> ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2025-05-30
@@ -136,7 +136,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 112,593 | 🐛 183 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 112,659 | 🐛 183 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 149 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._

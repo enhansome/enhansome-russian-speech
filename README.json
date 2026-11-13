@@ -382,7 +382,7 @@
             "open_issues": 0,
             "owner": "shigabeev",
             "repo": "russian_tts_normalization",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "computational-linguistics",
               "cyrillic",
@@ -1089,7 +1089,7 @@
             "open_issues": 183,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112593,
+            "stars": 112659,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:08:53.789Z",
+    "last_updated": "2026-11-13T20:40:01.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
