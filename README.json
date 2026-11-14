@@ -1089,7 +1089,7 @@
             "open_issues": 183,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112659,
+            "stars": 112698,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:40:01.062Z",
+    "last_updated": "2026-11-14T18:52:26.647Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
