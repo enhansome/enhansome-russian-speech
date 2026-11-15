@@ -361,7 +361,7 @@
             "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "runorm",
-            "stars": 50,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -420,7 +420,7 @@
             "open_issues": 0,
             "owner": "NickZaitsev",
             "repo": "ru-normalizr",
-            "stars": 29,
+            "stars": 30,
             "topics": [
               "language",
               "normalization",
@@ -546,7 +546,7 @@
             "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1086,10 +1086,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112698,
+            "stars": 112767,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:52:26.647Z",
+    "last_updated": "2026-11-15T19:28:38.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
