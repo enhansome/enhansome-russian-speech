@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "markovka17",
             "repo": "dla",
-            "stars": 778,
+            "stars": 779,
             "topics": [
               "deep-learning",
               "keyword-spotting",
@@ -150,7 +150,7 @@
             "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -546,7 +546,7 @@
             "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1029,7 +1029,7 @@
             "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1086,10 +1086,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T17:19:19Z",
-            "open_issues": 184,
+            "open_issues": 185,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112767,
+            "stars": 112852,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1110,7 +1110,7 @@
             "open_issues": 7,
             "owner": "salute-developers",
             "repo": "golos",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:28:38.923Z",
+    "last_updated": "2026-11-16T23:03:23.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1388,7 +1388,7 @@
       "open_issues": 4,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
-      "stars": 411,
+      "stars": 412,
       "topics": [
         "asr",
         "awesome-list",
