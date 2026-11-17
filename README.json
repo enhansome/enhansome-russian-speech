@@ -1089,7 +1089,7 @@
             "open_issues": 185,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 112852,
+            "stars": 113087,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:03:23.067Z",
+    "last_updated": "2026-11-17T21:55:22.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1388,7 +1388,7 @@
       "open_issues": 4,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
-      "stars": 412,
+      "stars": 415,
       "topics": [
         "asr",
         "awesome-list",
