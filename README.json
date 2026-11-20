@@ -546,7 +546,7 @@
             "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 225,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 187,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 113115,
+            "stars": 113173,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T21:51:52.080Z",
+    "last_updated": "2026-11-20T21:33:43.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
@@ -1388,7 +1388,7 @@
       "open_issues": 4,
       "owner": "alphacep",
       "repo": "awesome-russian-speech",
-      "stars": 416,
+      "stars": 417,
       "topics": [
         "asr",
         "awesome-list",
