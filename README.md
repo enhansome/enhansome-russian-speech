@@ -49,7 +49,7 @@
 
 * <https://github.com/alphacep/vosk-tts> ⭐ 277 | 🐛 34 | 🌐 Python | 📅 2026-06-06
 * <https://github.com/sovaai/sova-tts> ⭐ 163 | 🐛 10 | 🌐 Python | 📅 2023-04-27
-* <https://github.com/Tera2Space/TeraTTS> ⭐ 87 | 🐛 8 | 🌐 Python | 📅 2025-02-11
+* <https://github.com/Tera2Space/TeraTTS> ⭐ 88 | 🐛 8 | 🌐 Python | 📅 2025-02-11
 * <https://huggingface.co/datasets/ESpeech/ESpeech-podcasts/> - Espeech podcasts - 3200 hours
 * <https://huggingface.co/datasets/ESpeech/ESpeech-webinars2/> - Espeech webinars - 800 hours
 * <https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/> - M-AILabs dataset (from Librivox)
@@ -136,7 +136,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 113,348 | 🐛 188 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 113,426 | 🐛 187 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 150 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
