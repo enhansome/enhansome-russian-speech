@@ -76,7 +76,7 @@
 
 * <https://github.com/snakers4/russian_stt_text_normalization> ⚠️ Archived
 * <https://github.com/sovaai/sova-tts-tps> ⭐ 54 | 🐛 1 | 🌐 Python | 📅 2021-04-09
-* <https://github.com/Den4ikAI/runorm> ⭐ 51 | 🐛 5 | 🌐 Python | 📅 2024-05-13 - числа в текст, обработка английских слов, раскрытие сокращений
+* <https://github.com/Den4ikAI/runorm> ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2024-05-13 - числа в текст, обработка английских слов, раскрытие сокращений
 * <https://github.com/shigabeev/russian_tts_normalization> ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2026-06-27
 * <https://github.com/NickZaitsev/ru-normalizr> ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2026-11-21 - преобразователь на регулярных выражениях
 * <https://github.com/saarus72/text_normalization/tree/dev> ⭐ 28 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-01-25 - на основе Fred-T5
@@ -91,7 +91,7 @@
 
 # Расстановка ударений, фонетические словари и g2p
 
-* <https://github.com/Den4ikAI/ruaccent> ⭐ 228 | 🐛 5 | 🌐 Python | 📅 2026-07-17 - ёфикатор, ударение и разрешение омографов
+* <https://github.com/Den4ikAI/ruaccent> ⭐ 232 | 🐛 0 | 🌐 Python | 📅 2026-11-23 - ёфикатор, ударение и разрешение омографов
 * <https://github.com/nsu-ai/russian_g2p> ⭐ 141 | 🐛 11 | 🌐 Python | 📅 2022-06-19
 * <https://github.com/MashaPo/russtress> ⭐ 68 | 🐛 6 | 🌐 Python | 📅 2020-05-13
 * <https://github.com/Desklop/StressRNN> ⭐ 48 | 🐛 6 | 🌐 Python | 📅 2024-08-07
@@ -136,7 +136,7 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
-* Whisper medium <https://github.com/openai/whisper> ⭐ 113,369 | 🐛 188 | 🌐 Python | 📅 2026-08-31
+* Whisper medium <https://github.com/openai/whisper> ⭐ 113,348 | 🐛 188 | 🌐 Python | 📅 2026-08-31
 * Salute Citrinet <https://github.com/salute-developers/golos> ⭐ 150 | 🐛 7 | 🌐 Python | 📅 2025-05-21
 * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
 * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
@@ -201,4 +201,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

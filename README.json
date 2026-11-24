@@ -361,7 +361,7 @@
             "open_issues": 5,
             "owner": "Den4ikAI",
             "repo": "runorm",
-            "stars": 51,
+            "stars": 52,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -542,11 +542,11 @@
             "id": 682409859,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-07-17T18:53:48Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-23T19:25:14Z",
+            "open_issues": 0,
             "owner": "Den4ikAI",
             "repo": "ruaccent",
-            "stars": 228,
+            "stars": 232,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1089,7 +1089,7 @@
             "open_issues": 188,
             "owner": "openai",
             "repo": "whisper",
-            "stars": 113369,
+            "stars": 113348,
             "topics": []
           },
           "first_seen": "2026-08-28T23:13:31.502Z"
@@ -1376,7 +1376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:29:37.498Z",
+    "last_updated": "2026-11-24T01:16:45.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Russian speech technology links",
